@@ -3,14 +3,16 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'kotlin-kapt'
     id 'dagger.hilt.android.plugin'
+    id 'dexguard'
 }
 
 android {
-    namespace 'com.codingwithze.news'
+    namespace 'com.sourcey.materiallogindemo'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.codingwithze.news"
+        //applicationId "com.codingwithze.news"
+        applicationId "com.sourcey.materiallogindemo"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -72,4 +74,32 @@ dependencies {
     implementation "com.google.dagger:hilt-android:$hilt_version"
     kapt "com.google.dagger:hilt-android-compiler:$hilt_version"
 
+
+    // Only needed when using a dexguard-runtime aar
+   // implementation(name: 'dexguard-runtime', ext: 'aar')
+    //implementation 'com.guardsquare:dexguard-runtime:9.4+'
+    // Only needed when using a custom RASP callback.
+    //compileOnly (name: 'dexguard-rasp', ext: 'jar')
+
+}
+
+dexguard {
+    path = '../../DexGuard-9.4.9/'
+    // We can build the sample with the sample license file
+    license = '/Users/visionet/Documents/zelvi/DexGuard-9.4.9'
+    configurations {
+        debug {
+            //defaultConfiguration 'dexguard-debug.pro'
+            defaultConfiguration 'dexguard-release-conservative.pro'
+            defaultConfiguration 'dexguard-rasp.pro'
+            configuration 'dexguard-project.txt'
+            //uploadCrashlyticsMappingFileRelease = false
+        }
+        release {
+            defaultConfiguration 'dexguard-release-conservative.pro'
+            defaultConfiguration 'dexguard-rasp.pro'
+            configuration 'dexguard-project.txt'
+            //uploadCrashlyticsMappingFileRelease = true
+        }
+    }
 }

@@ -1,8 +1,16 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     ext.hilt_version = '2.42'
+    repositories {
+        maven {
+            url '../DexGuard-9.4.9/lib'          // For the DexGuard plugin.
+        }
+
+    }
     dependencies {
         classpath "com.google.dagger:hilt-android-gradle-plugin:$hilt_version"
+        classpath "com.android.tools.build:gradle:7.0.2"
+        classpath 'com.guardsquare:dexguard-gradle-plugin:+'
     }
 }
 plugins {

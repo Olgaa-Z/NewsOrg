@@ -1,0 +1,79 @@
+~2e~20~b~2c~2b~2a~21~29~22~24~25~23~26~27~28~2d~7~f~b~1b~e~16~f~5~c~d~12~e~16~7~b~a~a~b -> androidx.navigation.R.a(android.content.Context,int,int)
+~2e~20~b~2c~2b~2a~21~29~22~24~25~23~26~27~28~2d~7~f~b~1b~f~16~e~5~c~c~13~e~16~8~a~b~b~a -> androidx.recyclerview.widget.RecyclerView$LayoutParams.a(android.content.Context,int,int)
+~2e~20~a~2c~2b~2a~21~29~22~24~25~23~26~27~28~2d~9~f~b~1b~e~16~f~5~c~d~13~e~16~9~b~a~b~b -> androidx.startup.R.a(android.content.Context,int,int)
+~2e~20~a~2c~2b~2a~21~29~22~24~25~23~26~27~28~2d~7~f~a~1b~e~16~f~5~c~c~13~e~16~9~b~a~b~a -> androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper.a(android.content.Context,int,int)
+~2e~20~b~2c~2b~2a~21~29~22~24~25~23~26~27~28~2d~9~e~b~1b~e~16~f~6~c~d~12~e~16~8~a~b~a~a -> kotlinx.coroutines.EventLoopImplPlatform.a(android.content.Context,int,int)
+-111393119:ENTRYPOINT:Hooked check -> com.bumptech.glide.GlideContext.attachBaseContext(android.content.Context):5
+-111393119:ENTRYPOINT:Rooted check -> com.bumptech.glide.GlideContext.attachBaseContext(android.content.Context):5
+864338767:SPRAY:Emulator detector check -> com.bumptech.glide.load.engine.ActiveResources.cleanReferenceQueue():0
+1174557462:SPRAY:Emulator detector check -> com.bumptech.glide.load.engine.DiskCacheStrategy$5.isDataCacheable(com.bumptech.glide.load.DataSource):0
+900706686:SPRAY:Emulator detector check -> com.bumptech.glide.load.engine.LockedResource.release():0
+-1606750236:SPRAY:Emulator detector check -> com.bumptech.glide.load.model.MediaStoreFileLoader.buildLoadData(java.lang.Object,int,int,com.bumptech.glide.load.Options):0
+759854459:SPRAY:Emulator detector check -> com.bumptech.glide.load.resource.bitmap.ImageReader$InputStreamImageReader.getImageOrientation():0
+-1676880071:SPRAY:Emulator detector check -> com.bumptech.glide.load.resource.gif.ByteBufferGifDecoder.handles(java.nio.ByteBuffer,com.bumptech.glide.load.Options):0
+-182870995:SPRAY:Emulator detector check -> com.bumptech.glide.load.resource.transcode.BitmapDrawableTranscoder.transcode(com.bumptech.glide.load.engine.Resource,com.bumptech.glide.load.Options):0
+1562782059:ENTRYPOINT:Certificate tamper check -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+1562782059:ENTRYPOINT:Hooked check -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+1562782059:ENTRYPOINT:Debugger check - Debugger connected -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+1562782059:ENTRYPOINT:Debugger check - Debuggable -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+1562782059:ENTRYPOINT:Debugger check - Signed with debug keys -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+1562782059:ENTRYPOINT:DebugBlocker -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+1562782059:ENTRYPOINT:Virtual environment check -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+1562782059:ENTRYPOINT:Rooted check -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+1562782059:ENTRYPOINT:Emulator detector check -> com.bumptech.glide.manager.DefaultConnectivityMonitor$1.onReceive(android.content.Context,android.content.Intent):0
+-1144320170:ENTRYPOINT:Certificate tamper check -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1144320170:ENTRYPOINT:Hooked check -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1144320170:ENTRYPOINT:Debugger check - Debugger connected -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1144320170:ENTRYPOINT:Debugger check - Debuggable -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1144320170:ENTRYPOINT:Debugger check - Signed with debug keys -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1144320170:ENTRYPOINT:DebugBlocker -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1144320170:ENTRYPOINT:Virtual environment check -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1144320170:ENTRYPOINT:Rooted check -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1144320170:ENTRYPOINT:Emulator detector check -> com.bumptech.glide.manager.RequestManagerFragment.onStart():0
+-1124671289:SPRAY:Emulator detector check -> com.google.android.material.appbar.AppBarLayout$BaseBehavior$SavedState$1.newArray(int):0
+1484860255:SPRAY:Emulator detector check -> com.google.android.material.chip.Chip.isCheckable():0
+-2138955256:SPRAY:Emulator detector check -> com.google.android.material.chip.ChipDrawable.getTextAppearance():0
+-462891124:SPRAY:Emulator detector check -> com.google.android.material.textfield.CutoutDrawable.hasCutout():0
+390759693:SPRAY:Emulator detector check -> com.google.android.material.textfield.DropdownMenuEndIconDelegate.shouldTintIconOnError():0
+61859998:SPRAY:Emulator detector check -> com.google.gson.internal.LinkedTreeMap.findByObject(java.lang.Object):0
+-1352674441:SPRAY:Emulator detector check -> com.google.gson.internal.bind.TypeAdapters$17.read(com.google.gson.stream.JsonReader):0
+-657883361:ENTRYPOINT:Hooked check -> com.sourcey.materiallogindemo.Hilt_MainActivity.attachBaseContext(android.content.Context):5
+-657883361:ENTRYPOINT:Rooted check -> com.sourcey.materiallogindemo.Hilt_MainActivity.attachBaseContext(android.content.Context):5
+-179888098:ENTRYPOINT:Hooked check -> com.sourcey.materiallogindemo.Hilt_NewsApplication.attachBaseContext(android.content.Context):5
+-179888098:ENTRYPOINT:Rooted check -> com.sourcey.materiallogindemo.Hilt_NewsApplication.attachBaseContext(android.content.Context):5
+525913128:ENTRYPOINT:Certificate tamper check -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+525913128:ENTRYPOINT:Hooked check -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+525913128:ENTRYPOINT:Debugger check - Debugger connected -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+525913128:ENTRYPOINT:Debugger check - Debuggable -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+525913128:ENTRYPOINT:Debugger check - Signed with debug keys -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+525913128:ENTRYPOINT:DebugBlocker -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+525913128:ENTRYPOINT:Virtual environment check -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+525913128:ENTRYPOINT:Rooted check -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+525913128:ENTRYPOINT:Emulator detector check -> com.sourcey.materiallogindemo.MainActivity.onCreate(android.os.Bundle):0
+-418850349:ENTRYPOINT:Hooked check -> com.sourcey.materiallogindemo.MainActivity.attachBaseContext(android.content.Context):5
+-418850349:ENTRYPOINT:Rooted check -> com.sourcey.materiallogindemo.MainActivity.attachBaseContext(android.content.Context):5
+899576122:ENTRYPOINT:Hooked check -> com.sourcey.materiallogindemo.NewsApplication.attachBaseContext(android.content.Context):5
+899576122:ENTRYPOINT:Rooted check -> com.sourcey.materiallogindemo.NewsApplication.attachBaseContext(android.content.Context):5
+-1157657509:ENTRYPOINT:Certificate tamper check -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+-1157657509:ENTRYPOINT:Hooked check -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+-1157657509:ENTRYPOINT:Debugger check - Debugger connected -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+-1157657509:ENTRYPOINT:Debugger check - Debuggable -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+-1157657509:ENTRYPOINT:Debugger check - Signed with debug keys -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+-1157657509:ENTRYPOINT:DebugBlocker -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+-1157657509:ENTRYPOINT:Virtual environment check -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+-1157657509:ENTRYPOINT:Rooted check -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+-1157657509:ENTRYPOINT:Emulator detector check -> com.sourcey.materiallogindemo.NewsApplication.onCreate():4
+834001729:SPRAY:Emulator detector check -> com.sourcey.materiallogindemo.view.fragment.Hilt_DetailArticleFragment.onAttach(android.content.Context):0
+1972258153:ENTRYPOINT:Hooked check -> dagger.hilt.android.internal.managers.ViewComponentManager$FragmentContextWrapper.attachBaseContext(android.content.Context):5
+1972258153:ENTRYPOINT:Rooted check -> dagger.hilt.android.internal.managers.ViewComponentManager$FragmentContextWrapper.attachBaseContext(android.content.Context):5
+1405260216:SPRAY:Emulator detector check -> kotlin.collections.AbstractCollection.toString():0
+-412812278:SPRAY:Emulator detector check -> kotlin.jvm.internal.FunctionReference.equals(java.lang.Object):0
+-769759815:SPRAY:Emulator detector check -> kotlinx.coroutines.flow.internal.AbstractSharedFlow.getSlots():0
+-1449859960:SPRAY:Emulator detector check -> kotlinx.coroutines.internal.LockFreeTaskQueueCore.allocateNextCopy(long):0
+40673333:SPRAY:Emulator detector check -> kotlinx.coroutines.internal.WeakMapCtorCache.get(java.lang.Class):0
+-1475486789:SPRAY:Emulator detector check -> kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.trySteal(boolean):0
+1386093102:SPRAY:Emulator detector check -> okhttp3.Headers.value(int):0
+852552221:SPRAY:Emulator detector check -> okhttp3.Headers$Companion.get(java.lang.String[],java.lang.String):0
+1298908377:SPRAY:Emulator detector check -> okhttp3.Request.newBuilder():0
+440633775:SPRAY:Emulator detector check -> okio.RealBufferedSource.close():0
+1951621674:SPRAY:Emulator detector check -> okio.RealBufferedSource.exhausted():0

@@ -1,0 +1,62 @@
+# DexGuard's default settings are fine for this sample application.
+
+# We'll just display some more statistics about the processed code.
+#-verbose
+# For debugging purposes if the app crash or not working correctly when dexguard is applied
+#-addconfigurationdebugging
+
+# Print configuration
+-printconfiguration fullconfig.txt
+-printinjectmapping injectmapping.txt
+
+################################################## RASP ##################################################
+# -raspchecks emulator,apptamper,certificatetamper,filetamper,hook,root,debug,virtualenvironment
+-raspchecks certificatetamper, debug, virtualenvironment, hook, root, emulator
+
+# Don't crash on any threat categories
+-raspcontinueon certificatetamper, debug, virtualenvironment, hook, root, emulator
+
+# Crash on all threat categories
+#-raspcallback class com.vdi.vdimeter.MainActivity {
+#   public static void myCallback(com.guardsquare.dexguard.rasp.callback.DetectionReport);
+#}
+
+-raspflags root 513
+-raspflags hook 1
+-raspflags root 5632
+
+#-raspchecks hook, root, certificatetamper checkpoint class com.vdi.vdimeter.MainActivity {
+    #void onCreate(android.os.Bundle);
+    #protected void attachBaseContext(android.content.Context);
+    #public void attachBaseContext(android.content.Context);
+#}
+
+-raspcustomspraypercentage root  0
+-raspcustomspraypercentage hook  0
+-raspcustomspraypercentage virtualenvironment 0
+-raspcustomspraypercentage debug 0
+-raspcustomspraypercentage certificatetamper  0
+
+################################################## Debug Blocker & Runtime ##################################################
+
+-encryptclasses class !com.guardsquare.dexguard.runtime.detection.RootDetector$InternalCallback, !com.guardsquare.dexguard.runtime.report.ThreatReport, com.guardsquare.dexguard.runtime.**
+
+################################################## Virtualize code ##################################################
+
+#-virtualizecode class com.bankmandiri.md.feature.common.presentation.ui.CommonPinFragment,com.bankmandiri.md.feature.prelogin.presentation.ui.PreloginFragment,com.bankmandiri.md.feature.splash.presentation.ui.SplashFragment { public void onResume(); }
+
+
+# Resources
+-keepresources id/**
+-keepresources layout/**
+
+-keepresourcefiles res/**
+-keepresourcefiles assets/**
+-keepresourcefiles !lib/**/libdgrt.so, lib/**
+
+-keepresourcexmlelements **
+-keepresourcexmlattributenames **
+
+# To encrypt the resource string with resource name `apiKey`.
+-encryptresourcefiles res/layout/**
+-encryptresourcefiles res/drawable/**

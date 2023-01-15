@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/splashScreen"
-        android:name="com.codingwithze.news.view.fragment.SplashScreen"
+        android:name="com.sourcey.materiallogindemo.view.fragment.SplashScreen"
         android:label="fragment_splash_screen"
         tools:layout="@layout/fragment_splash_screen" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/categoryFragment"
-        android:name="com.codingwithze.news.view.fragment.CategoryFragment"
+        android:name="com.sourcey.materiallogindemo.view.fragment.CategoryFragment"
         android:label="fragment_category"
         tools:layout="@layout/fragment_category" >
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <fragment
         android:id="@+id/sourceNewsFragment"
-        android:name="com.codingwithze.news.view.fragment.SourceNewsFragment"
+        android:name="com.sourcey.materiallogindemo.view.fragment.SourceNewsFragment"
         android:label="fragment_source_news"
         tools:layout="@layout/fragment_source_news" >
         <action
@@ -40,7 +40,7 @@
     </fragment>
     <fragment
         android:id="@+id/articleFragment"
-        android:name="com.codingwithze.news.view.fragment.ArticleFragment"
+        android:name="com.sourcey.materiallogindemo.view.fragment.ArticleFragment"
         android:label="fragment_article"
         tools:layout="@layout/fragment_article" >
         <action
@@ -55,7 +55,7 @@
     </fragment>
     <fragment
         android:id="@+id/detailArticleFragment"
-        android:name="com.codingwithze.news.view.fragment.DetailArticleFragment"
+        android:name="com.sourcey.materiallogindemo.view.fragment.DetailArticleFragment"
         android:label="fragment_detail_article"
         tools:layout="@layout/fragment_detail_article" >
         <action
