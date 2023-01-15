@@ -7,14 +7,14 @@ API : https://newsapi.org/
 
 Features :
 
-Splashscreen
-Displays list category news
-Display list Sources by select category first
-Display list News by select any Sources
-Detail News by click any news list (Webview)
-Browse Sources
-Search any news
-test negative case : no internet connection
+- Splashscreen
+- Displays list category news
+- Display list Sources by select category first
+- Display list News by select any Sources
+- Detail News by click any news list (Webview)
+- Browse Sources
+- Search any news
+- test negative case : no internet connection
 
 Screenshot :
 ![1](https://user-images.githubusercontent.com/48192666/212558598-eba66c22-162f-4d7b-afc6-f34ee4c9e649.jpg)
