@@ -4,6 +4,8 @@ plugins {
     id 'kotlin-kapt'
     id 'dagger.hilt.android.plugin'
     id 'dexguard'
+    id 'com.google.gms.google-services'
+    //id 'com.google.firebase.crashlytics'
 }
 
 android {
@@ -21,10 +23,26 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    signingConfigs {
+        debug {
+            storeFile file('keynews.jks')
+            storePassword 'qwerty123'
+            keyAlias 'keynewsorg'
+            keyPassword 'qwerty123'
+        }
+        release {
+            storeFile file('keynews.jks')
+            storePassword 'qwerty123'
+            keyAlias 'keynewsorg'
+            keyPassword 'qwerty123'
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
     }
     compileOptions {
@@ -65,8 +83,8 @@ dependencies {
     implementation 'com.squareup.okhttp3:logging-interceptor:4.9.3'
 
     // Coroutines
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5'
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.5'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0'
 
     // Architectural Components
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
@@ -75,18 +93,22 @@ dependencies {
     kapt "com.google.dagger:hilt-android-compiler:$hilt_version"
 
 
-    // Only needed when using a dexguard-runtime aar
-   // implementation(name: 'dexguard-runtime', ext: 'aar')
-    //implementation 'com.guardsquare:dexguard-runtime:9.4+'
-    // Only needed when using a custom RASP callback.
-    //compileOnly (name: 'dexguard-rasp', ext: 'jar')
+    implementation fileTree(dir: 'libs', exclude: 'dexguard-rasp.jar')
+    implementation fileTree(dir: '../library/libs', include: '*.jar')
+    compileOnly (name: 'dexguard-rasp', ext: 'jar')
 
+    //releaseImplementation 'com.guardsquare:dexguard-threatcast-client:9.4.10'
+    //debugImplementation   'com.guardsquare:dexguard-threatcast-client:9.4.10:debug@aar'
+
+//    implementation platform("com.google.firebase:firebase-bom:32.1.0")
+    //implementation 'com.google.firebase:firebase-analytics'
+    //implementation 'com.google.firebase:firebase-crashlytics-ktx'
 }
 
 dexguard {
-    path = '../../DexGuard-9.4.9/'
+    path = '../../DexGuard-9.4.13/'
     // We can build the sample with the sample license file
-    license = '/Users/visionet/Documents/zelvi/DexGuard-9.4.9'
+    license = '/Users/visionet/Documents/zelvi/DexGuard-9.4.13'
     configurations {
         debug {
             //defaultConfiguration 'dexguard-debug.pro'
@@ -96,10 +118,10 @@ dexguard {
             //uploadCrashlyticsMappingFileRelease = false
         }
         release {
-            defaultConfiguration 'dexguard-release-conservative.pro'
+            defaultConfiguration 'dexguard-release-aggressive.pro'
             defaultConfiguration 'dexguard-rasp.pro'
             configuration 'dexguard-project.txt'
-            //uploadCrashlyticsMappingFileRelease = true
+            //uploadCrashlyticsMappingFileRelease = true //
         }
     }
 }

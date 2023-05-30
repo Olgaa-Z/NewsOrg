@@ -1,0 +1,35 @@
+com.bumptech.glide.load.engine.cache.SafeKeyGenerator$1
+    "SHA-256"
+com.bumptech.glide.load.model.UrlUriLoader
+    "https"
+okhttp3.Address
+    "https"
+okhttp3.Cache
+    "GET"
+okhttp3.HttpUrl
+    "https"
+okhttp3.HttpUrl$Builder
+    "https"
+okhttp3.HttpUrl$Companion
+    "https"
+okhttp3.Request$Builder
+    "GET"
+okhttp3.internal.connection.ExchangeFinder
+    "GET"
+okhttp3.internal.http.HttpMethod
+    "GET"
+okhttp3.internal.http.RetryAndFollowUpInterceptor
+    "GET"
+okhttp3.internal.http2.Hpack
+    "GET"
+    "https"
+okhttp3.internal.platform.BouncyCastlePlatform
+    "TLS"
+okhttp3.internal.platform.ConscryptPlatform
+    "TLS"
+okhttp3.internal.platform.Platform
+    "TLS"
+okio.ByteString
+    "SHA-256"
+retrofit2.RequestFactory$Builder
+    "GET"

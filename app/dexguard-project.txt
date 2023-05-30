@@ -5,25 +5,28 @@
 # For debugging purposes if the app crash or not working correctly when dexguard is applied
 #-addconfigurationdebugging
 
+-include /lib/dexguard-release-aggressive.pro
+-include /lib/dexguard-rasp.pro
+
 # Print configuration
 -printconfiguration fullconfig.txt
 -printinjectmapping injectmapping.txt
 
 ################################################## RASP ##################################################
-# -raspchecks emulator,apptamper,certificatetamper,filetamper,hook,root,debug,virtualenvironment
--raspchecks certificatetamper, debug, virtualenvironment, hook, root, emulator
+-raspchecks emulator,apptamper,certificatetamper,filetamper,hook,root,debug,virtualenvironment
+#-raspchecks emulator, certificatetamper, debug, virtualenvironment, hook, root
 
 # Don't crash on any threat categories
--raspcontinueon certificatetamper, debug, virtualenvironment, hook, root, emulator
+-raspcontinueon none
+#-raspcontinueon emulator, apptamper, certificatetamper, filetamper, hook, root, debug, virtualenvironment
 
 # Crash on all threat categories
 #-raspcallback class com.vdi.vdimeter.MainActivity {
-#   public static void myCallback(com.guardsquare.dexguard.rasp.callback.DetectionReport);
+#    public static void myCallback(com.guardsquare.dexguard.rasp.callback.DetectionReport);
 #}
 
--raspflags root 513
+-raspflags root 6135
 -raspflags hook 1
--raspflags root 5632
 
 #-raspchecks hook, root, certificatetamper checkpoint class com.vdi.vdimeter.MainActivity {
     #void onCreate(android.os.Bundle);
@@ -45,6 +48,116 @@
 
 #-virtualizecode class com.bankmandiri.md.feature.common.presentation.ui.CommonPinFragment,com.bankmandiri.md.feature.prelogin.presentation.ui.PreloginFragment,com.bankmandiri.md.feature.splash.presentation.ui.SplashFragment { public void onResume(); }
 
+################################################## Crashlytics ################################################
+-keepattributes *Annotation*
+-keepattributes SourceFile,LineNumberTable
+-keepattributes Exceptions,InnerClasses,Signature,Deprecated, SourceFile,LineNumberTable,*Annotation*,EnclosingMethod
+-keep public class * extends java.lang.Exception
+
+-keep class com.crashlytics.** { *; }
+-dontwarn com.crashlytics.**
+-printmapping mapping.txt
+
+################################################## OkHttp4 ##################################################
+-keep class com.squareup.okhttp.** { *; }
+-keep interface com.squareup.okhttp.** { *; }
+
+################################################## Retrofit ##################################################
+# Retrofit does reflection on generic parameters. InnerClasses is required to use Signature and
+# EnclosingMethod is required to use InnerClasses.
+-keepattributes Signature, InnerClasses, EnclosingMethod
+# Retrofit does reflection on method and parameter annotations.
+-keepattributes RuntimeVisibleAnnotations, RuntimeVisibleParameterAnnotations
+# Retain service method parameters when optimizing.
+-keepclassmembers,allowshrinking,allowobfuscation interface * {
+    @retrofit2.http.* <methods>;
+}
+# Ignore annotation used for build tooling.
+-dontwarn org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
+# Ignore JSR 305 annotations for embedding nullability information.
+-dontwarn javax.annotation.**
+# Guarded by a NoClassDefFoundError try/catch and only used when on the classpath.
+-dontwarn kotlin.Unit
+# Top-level functions that can only be used by Kotlin.
+-dontwarn retrofit2.KotlinExtensions
+-dontwarn retrofit2.KotlinExtensions$*
+# With R8 full mode, it sees no subtypes of Retrofit interfaces since they are created with a Proxy
+# and replaces all potential values with null. Explicitly keeping the interfaces prevents this.
+-if interface * { @retrofit2.http.* <methods>; }
+-keep,allowobfuscation interface <1>
+-dontwarn retrofit.**
+-dontwarn retrofit.appengine.UrlFetchClient
+-keep class retrofit.** { *; }
+
+################################################## Okio ##################################################
+# Animal Sniffer compileOnly dependency to ensure APIs are compatible with older versions of Java.
+-dontwarn org.codehaus.mojo.animal_sniffer.*
+-dontwarn okio.**
+
+################################################## Glide ##################################################
+-keep public class * implements com.bumptech.glide.module.GlideModule
+-keep class * extends com.bumptech.glide.module.AppGlideModule {
+ <init>(...);
+}
+-keep public enum com.bumptech.glide.load.ImageHeaderParser$** {
+  **[] $VALUES;
+  public *;
+}
+-keep class com.bumptech.glide.load.data.ParcelFileDescriptorRewinder$InternalRewinder {
+  *** rewind();
+}
+
+# Uncomment for DexGuard only
+-keepresourcexmlelements manifest/application/meta-data@value=GlideModule
+
+################################################## Dex guard bugfix ##################################################
+
+# Google Play Service
+-keepnames class com.google.android.gms.** { *; }
+-keep class com.google.android.gms.** { *; }
+-keepclassmembers class com.google.android.gms.** { *; }
+
+# Firebase
+-keep class com.google.firebase.** { *; }
+-keepclassmembers class com.google.firebase.perf.** { *; }
+
+# Material Component
+-keep class com.google.android.material.theme.MaterialComponentsViewInflater
+
+# AndroidX
+-keep class androidx.** { *; }
+-keep class androidx.appcompat.widget.TintContextWrapper
+-keep class androidx.appcompat.widget.TintResources
+-keep class androidx.lifecycle.** { *; }
+-keepclassmembers class * extends androidx.navigation.NavArgs {
+    *** fromBundle(android.os.Bundle);
+}
+
+# Room
+-keep class * extends androidx.room.RoomDatabase
+-keep @androidx.room.Entity class *
+-dontwarn androidx.room.paging.**
+
+# CoordinatorLayout resolves the behaviors of its child components with reflection.
+-keep public class * extends androidx.coordinatorlayout.widget.CoordinatorLayout$Behavior {
+    public <init>(android.content.Context, android.util.AttributeSet);
+    public <init>();
+}
+
+# Make sure we keep annotations for CoordinatorLayout's DefaultBehavior
+-keepattributes RuntimeVisible*Annotation*
+
+# Coroutines
+-keep class kotlinx.coroutines.android.AndroidDispatcherFactory
+-keep class kotlinx.coroutines.test.internal.TestMainDispatcherFactory
+
+# Moshi
+-optimizations !library/moshi
+
+# FastJson
+-dontwarn com.alibaba.fastjson.**
+-keepattributes Signature
+-keepattributes Annotation
 
 # Resources
 -keepresources id/**
@@ -57,6 +170,160 @@
 -keepresourcexmlelements **
 -keepresourcexmlattributenames **
 
+# Obfuscate
+# -obfuscatecode class com.bankmandiri.md.core.api.** { *; }
+-obfuscationdictionary <alphabetic>
+-classobfuscationdictionary <alphabetic>
+
+# String encryption
+ -encryptstrings class com.sourcey.materiallogindemo.**
+
+
+# Class encryption
+# -encryptclasses com.bankmandiri.md.core.api.**
+
+
 # To encrypt the resource string with resource name `apiKey`.
 -encryptresourcefiles res/layout/**
 -encryptresourcefiles res/drawable/**
+
+-printnativelibraryencryption nativelibraryencryption.txt
+
+-accessthroughreflection, encryptstrings class java.lang.System { static void exit(int); }
+
+
+-obfuscatecode,low class com.sourcey.materiallogindemo.**
+-virtualizecode  class com.sourcey.materiallogindemo.**
+-encryptnativelibraries lisb/*/libdgrt.so
+
+# Encrypt Asset Files
+-encryptassetfiles assets/**
+-encryptresourcefiles res/layout/**
+# Meta Data
+-encryptmetadata **
+
+# new #
+# Resources
+-keepresources id/**
+-keepresources layout/**
+
+-keepresourcefiles res/**
+-keepresourcefiles assets/**
+#-keepresourcefiles lib/*/libdgrt.so
+
+-keepresourcexmlelements **
+-keepresourcexmlattributenames **
+
+
+# Log
+-assumenosideeffects class android.util.Log {
+    public static boolean isLoggable(java.lang.String, int);
+    public static int v(...);
+    public static int d(...);
+    public static int i(...);
+    public static int w(...);
+    public static int e(...);
+    public static java.lang.String getStackTraceString(java.lang.Throwable);
+}
+
+#keep from autoconfig
+# Encrypt the libsecret.so native library.
+
+#keep viewmodel
+-keep class androidx.lifecycle.ViewModel {
+    <init>();
+}
+
+-keep class * extends androidx.lifecycle.ViewModel {
+    <init>();
+}
+
+ -keepclassmembers class com.sourcey.materiallogindemo.viewmodel.ViewModelArticle {
+                                                                                                        <init>(...);
+}
+
+ -keepclassmembers class com.sourcey.materiallogindemo.viewmodel.ViewModelSourcey{
+                                                                                                        <init>(...);
+}
+
+
+
+
+
+################################################## Glide ##################################################
+-keep public class * implements com.bumptech.glide.module.GlideModule
+-keep class * extends com.bumptech.glide.module.AppGlideModule {
+ <init>(...);
+}
+-keep public enum com.bumptech.glide.load.ImageHeaderParser$** {
+  **[] $VALUES;
+  public *;
+}
+-keep class com.bumptech.glide.load.data.ParcelFileDescriptorRewinder$InternalRewinder {
+  *** rewind();
+}
+
+# Uncomment for DexGuard only
+-keepresourcexmlelements manifest/application/meta-data@value=GlideModule
+
+-keep class android.app.ActivityThread {
+    void handleBindApplication(...);
+}
+-keep class android.app.Instrumentation {
+    void callApplicationOnCreate(android.app.Application);
+}
+
+-keepclassmembers class * {
+    void onCreate(...);
+}
+-keep class java.lang.RuntimeException
+-keepclassmembers class * {
+    void onCreate(...);
+}
+-keep class android.app.Instrumentation
+
+-keepclassmembers class android.app.ActivityThread {
+    void handleBindApplication(android.app.ActivityThread$AppBindData);
+}
+
+
+ -keepclassmembers class com.sourcey.materiallogindemo.model.article.Source {
+                                                                                                        <fields>;
+
+}
+
+-keepclassmembers class com.sourcey.materiallogindemo.model.article.Article {
+                                                                                                        <fields>;
+
+}
+
+-keepclassmembers class com.sourcey.materiallogindemo.model.article.ResponseArticles {
+                                                                                                        <fields>;
+
+}
+-keepclassmembers class com.sourcey.materiallogindemo.model.source.Source {
+                                                                                                        <fields>;
+
+}
+
+-keepclassmembers class com.sourcey.materiallogindemo.model.source.ResponseSource {
+                                                                                                        <fields>;
+
+}
+
+-keepresources drawable/general
+-keepresources drawable/entertainment
+-keepresources drawable/business
+-keepresources drawable/health
+-keepresources drawable/science
+-keepresources drawable/sports
+-keepresources drawable/technology
+-keepresources navigation/navigation
+
+-keepresources style/TextAppearance.MaterialComponents.Headline6
+-keepresources color/abc_secondary_text_material_dark
+-keepresources color/abc_primary_text_material_dark
+
+
+
+

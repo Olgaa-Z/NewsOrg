@@ -1,0 +1,1440 @@
+AndroidManifest.xml -> [AndroidManifest.xml]
+DebugProbesKt.bin -> [DebugProbesKt.bin]
+META-INF/CERT.RSA -> [META-INF/CERT.RSA]
+META-INF/CERT.SF -> [META-INF/CERT.SF]
+META-INF/MANIFEST.MF -> [META-INF/MANIFEST.MF]
+META-INF/androidx.activity_activity-ktx.version -> [META-INF/androidx.activity_activity-ktx.version]
+META-INF/androidx.activity_activity.version -> [META-INF/androidx.activity_activity.version]
+META-INF/androidx.annotation_annotation-experimental.version -> [META-INF/androidx.annotation_annotation-experimental.version]
+META-INF/androidx.appcompat_appcompat-resources.version -> [META-INF/androidx.appcompat_appcompat-resources.version]
+META-INF/androidx.appcompat_appcompat.version -> [META-INF/androidx.appcompat_appcompat.version]
+META-INF/androidx.arch.core_core-runtime.version -> [META-INF/androidx.arch.core_core-runtime.version]
+META-INF/androidx.cardview_cardview.version -> [META-INF/androidx.cardview_cardview.version]
+META-INF/androidx.coordinatorlayout_coordinatorlayout.version -> [META-INF/androidx.coordinatorlayout_coordinatorlayout.version]
+META-INF/androidx.core_core-ktx.version -> [META-INF/androidx.core_core-ktx.version]
+META-INF/androidx.core_core.version -> [META-INF/androidx.core_core.version]
+META-INF/androidx.cursoradapter_cursoradapter.version -> [META-INF/androidx.cursoradapter_cursoradapter.version]
+META-INF/androidx.customview_customview.version -> [META-INF/androidx.customview_customview.version]
+META-INF/androidx.databinding_viewbinding.version -> [META-INF/androidx.databinding_viewbinding.version]
+META-INF/androidx.documentfile_documentfile.version -> [META-INF/androidx.documentfile_documentfile.version]
+META-INF/androidx.drawerlayout_drawerlayout.version -> [META-INF/androidx.drawerlayout_drawerlayout.version]
+META-INF/androidx.dynamicanimation_dynamicanimation.version -> [META-INF/androidx.dynamicanimation_dynamicanimation.version]
+META-INF/androidx.emoji2_emoji2-views-helper.version -> [META-INF/androidx.emoji2_emoji2-views-helper.version]
+META-INF/androidx.emoji2_emoji2.version -> [META-INF/androidx.emoji2_emoji2.version]
+META-INF/androidx.exifinterface_exifinterface.version -> [META-INF/androidx.exifinterface_exifinterface.version]
+META-INF/androidx.fragment_fragment-ktx.version -> [META-INF/androidx.fragment_fragment-ktx.version]
+META-INF/androidx.fragment_fragment.version -> [META-INF/androidx.fragment_fragment.version]
+META-INF/androidx.interpolator_interpolator.version -> [META-INF/androidx.interpolator_interpolator.version]
+META-INF/androidx.legacy_legacy-support-core-utils.version -> [META-INF/androidx.legacy_legacy-support-core-utils.version]
+META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version -> [META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version]
+META-INF/androidx.lifecycle_lifecycle-livedata-core.version -> [META-INF/androidx.lifecycle_lifecycle-livedata-core.version]
+META-INF/androidx.lifecycle_lifecycle-livedata.version -> [META-INF/androidx.lifecycle_lifecycle-livedata.version]
+META-INF/androidx.lifecycle_lifecycle-process.version -> [META-INF/androidx.lifecycle_lifecycle-process.version]
+META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version -> [META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version]
+META-INF/androidx.lifecycle_lifecycle-runtime.version -> [META-INF/androidx.lifecycle_lifecycle-runtime.version]
+META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version -> [META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version]
+META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version -> [META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version]
+META-INF/androidx.lifecycle_lifecycle-viewmodel.version -> [META-INF/androidx.lifecycle_lifecycle-viewmodel.version]
+META-INF/androidx.loader_loader.version -> [META-INF/androidx.loader_loader.version]
+META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version -> [META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version]
+META-INF/androidx.navigation_navigation-common-ktx.version -> [META-INF/androidx.navigation_navigation-common-ktx.version]
+META-INF/androidx.navigation_navigation-common.version -> [META-INF/androidx.navigation_navigation-common.version]
+META-INF/androidx.navigation_navigation-fragment-ktx.version -> [META-INF/androidx.navigation_navigation-fragment-ktx.version]
+META-INF/androidx.navigation_navigation-fragment.version -> [META-INF/androidx.navigation_navigation-fragment.version]
+META-INF/androidx.navigation_navigation-runtime-ktx.version -> [META-INF/androidx.navigation_navigation-runtime-ktx.version]
+META-INF/androidx.navigation_navigation-runtime.version -> [META-INF/androidx.navigation_navigation-runtime.version]
+META-INF/androidx.navigation_navigation-ui-ktx.version -> [META-INF/androidx.navigation_navigation-ui-ktx.version]
+META-INF/androidx.navigation_navigation-ui.version -> [META-INF/androidx.navigation_navigation-ui.version]
+META-INF/androidx.print_print.version -> [META-INF/androidx.print_print.version]
+META-INF/androidx.recyclerview_recyclerview.version -> [META-INF/androidx.recyclerview_recyclerview.version]
+META-INF/androidx.savedstate_savedstate-ktx.version -> [META-INF/androidx.savedstate_savedstate-ktx.version]
+META-INF/androidx.savedstate_savedstate.version -> [META-INF/androidx.savedstate_savedstate.version]
+META-INF/androidx.slidingpanelayout_slidingpanelayout.version -> [META-INF/androidx.slidingpanelayout_slidingpanelayout.version]
+META-INF/androidx.startup_startup-runtime.version -> [META-INF/androidx.startup_startup-runtime.version]
+META-INF/androidx.tracing_tracing.version -> [META-INF/androidx.tracing_tracing.version]
+META-INF/androidx.transition_transition.version -> [META-INF/androidx.transition_transition.version]
+META-INF/androidx.vectordrawable_vectordrawable-animated.version -> [META-INF/androidx.vectordrawable_vectordrawable-animated.version]
+META-INF/androidx.vectordrawable_vectordrawable.version -> [META-INF/androidx.vectordrawable_vectordrawable.version]
+META-INF/androidx.versionedparcelable_versionedparcelable.version -> [META-INF/androidx.versionedparcelable_versionedparcelable.version]
+META-INF/androidx.viewpager2_viewpager2.version -> [META-INF/androidx.viewpager2_viewpager2.version]
+META-INF/androidx.viewpager_viewpager.version -> [META-INF/androidx.viewpager_viewpager.version]
+META-INF/androidx.window_window.version -> [META-INF/androidx.window_window.version]
+META-INF/com.google.android.material_material.version -> [META-INF/com.google.android.material_material.version]
+META-INF/com.google.dagger_dagger-lint-aar.version -> [META-INF/com.google.dagger_dagger-lint-aar.version]
+META-INF/com.google.dagger_dagger.version -> [META-INF/com.google.dagger_dagger.version]
+META-INF/com.google.dagger_hilt-android.version -> [META-INF/com.google.dagger_hilt-android.version]
+META-INF/com.google.dagger_hilt-core.version -> [META-INF/com.google.dagger_hilt-core.version]
+META-INF/com/android/build/gradle/app-metadata.properties -> [META-INF/com/android/build/gradle/app-metadata.properties]
+META-INF/kotlinx_coroutines_android.version -> [META-INF/kotlinx_coroutines_android.version]
+META-INF/kotlinx_coroutines_core.version -> [META-INF/kotlinx_coroutines_core.version]
+META-INF/services/kotlinx.coroutines.CoroutineExceptionHandler -> [META-INF/services/kotlinx.coroutines.CoroutineExceptionHandler]
+META-INF/services/kotlinx.coroutines.internal.MainDispatcherFactory -> [META-INF/services/kotlinx.coroutines.internal.MainDispatcherFactory]
+assets/dexopt/baseline.prof -> [assets/dexopt/baseline.prof]
+assets/dexopt/baseline.profm -> [assets/dexopt/baseline.profm]
+kotlin-tooling-metadata.json -> [kotlin-tooling-metadata.json]
+kotlin/annotation/annotation.kotlin_builtins -> [kotlin/annotation/annotation.kotlin_builtins]
+kotlin/collections/collections.kotlin_builtins -> [kotlin/collections/collections.kotlin_builtins]
+kotlin/coroutines/coroutines.kotlin_builtins -> [kotlin/coroutines/coroutines.kotlin_builtins]
+kotlin/internal/internal.kotlin_builtins -> [kotlin/internal/internal.kotlin_builtins]
+kotlin/kotlin.kotlin_builtins -> [kotlin/kotlin.kotlin_builtins]
+kotlin/ranges/ranges.kotlin_builtins -> [kotlin/ranges/ranges.kotlin_builtins]
+kotlin/reflect/reflect.kotlin_builtins -> [kotlin/reflect/reflect.kotlin_builtins]
+lib/arm64-v8a/libdgrt-ancd-agent.so -> lib/arm64-v8a/libdgrt-ancd-agent.so
+lib/armeabi-v7a/libdgrt-ancd-agent.so -> lib/armeabi-v7a/libdgrt-ancd-agent.so
+lib/x86/libdgrt-ancd-agent.so -> lib/x86/libdgrt-ancd-agent.so
+lib/x86_64/libdgrt-ancd-agent.so -> lib/x86_64/libdgrt-ancd-agent.so
+okhttp3/internal/publicsuffix/NOTICE -> [okhttp3/internal/publicsuffix/NOTICE]
+okhttp3/internal/publicsuffix/publicsuffixes.gz -> [okhttp3/internal/publicsuffix/publicsuffixes.gz]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_list_menu_item_layout.xml
+res/-Y.xml -> [res/-Y.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_layout_snackbar.xml
+res/-c.xml -> [res/-c.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_checked_indeterminate__0.xml
+res/-e.xml -> [res/-e.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_list_menu_item_radio.xml
+res/-o.xml -> [res/-o.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_seekbar_thumb_material.xml
+res/-u.xml -> [res/-u.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png
+res/06.png -> [res/06.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/notification_bg_low_normal.9.png
+res/09.9.png -> [res/09.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png
+res/0H.9.png -> [res/0H.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png
+res/0I.png -> [res/0I.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$avd_show_password__1.xml
+res/0N.xml -> [res/0N.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/health.png
+res/0a.png -> [res/0a.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_switch_thumb_material.xml
+res/0b.xml -> [res/0b.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/m3_auto_complete_simple_item.xml
+res/0q.xml -> [res/0q.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/design_ic_visibility_off.xml
+res/0w.xml -> [res/0w.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png
+res/11.png -> [res/11.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/btn_checkbox_unchecked_mtrl.xml
+res/1L.xml -> [res/1L.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-v23/m3_popupmenu_background_overlay.xml
+res/1M.xml -> [res/1M.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/mtrl_fast_out_linear_in.xml
+res/1u.xml -> [res/1u.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_list_divider_material.xml
+res/1y.xml -> [res/1y.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-hdpi/ic_launcher.webp
+res/2-.webp -> [res/2-.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_list_pressed_holo_dark.9.png
+res/2C.9.png -> [res/2C.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_mtrl_chip_checked_circle.xml
+res/2D.xml -> [res/2D.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml
+res/2D1.xml -> [res/2D1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_track.xml
+res/2J.xml -> [res/2J.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/design_bottom_sheet_slide_in.xml
+res/2p.xml -> [res/2p.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_clock_display.xml
+res/30.xml -> [res/30.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+res/33.9.png -> [res/33.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_tab_indicator_material.xml
+res/36.xml -> [res/36.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_bottom_sheet_dialog.xml
+res/38.xml -> [res/38.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/mtrl_fast_out_slow_in.xml
+res/3B.xml -> [res/3B.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_launcher_background.xml
+res/3N.xml -> [res/3N.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_unchecked.xml
+res/3O.xml -> [res/3O.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+res/3_.png -> [res/3_.png]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-hdpi/ic_launcher_round.webp
+res/3c.webp -> [res/3c.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_go_search_api_material.xml
+res/3c.xml -> [res/3c.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-sw600dp/mtrl_layout_snackbar.xml
+res/3h.xml -> [res/3h.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/material_cursor_drawable.xml
+res/3i.xml -> [res/3i.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/sports.png
+res/3j.png -> [res/3j.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/notification_bg_low.xml
+res/3m.xml -> [res/3m.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_unchecked_checked.xml
+res/3n.xml -> [res/3n.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_layout_tab_icon.xml
+res/3x.xml -> [res/3x.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_menu_cut_mtrl_alpha.xml
+res/3z.xml -> [res/3z.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_ic_error.xml
+res/41.xml -> [res/41.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_expanded_menu_layout.xml
+res/43.xml -> [res/43.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl.png
+res/48.png -> [res/48.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_ic_check_mark.xml
+res/4F.xml -> [res/4F.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_m3_chip_checked_circle.xml
+res/4F1.xml -> [res/4F1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_header_toggle.xml
+res/4G.xml -> [res/4G.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/notification_action_tombstone.xml
+res/4W.xml -> [res/4W.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png
+res/4_.9.png -> [res/4_.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_text_select_handle_right_mtrl.png
+res/4r.png -> [res/4r.png]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/m3_sys_motion_easing_standard.xml
+res/51.xml -> [res/51.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_header_dialog.xml
+res/5A.xml -> [res/5A.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png
+res/5J.png -> [res/5J.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_ic_indeterminate.xml
+res/5J.xml -> [res/5J.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/item_source.xml
+res/5U.xml -> [res/5U.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png
+res/5j.9.png -> [res/5j.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_list_focused_holo.9.png
+res/5z.9.png -> [res/5z.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_list_menu_item_checkbox.xml
+res/65.xml -> [res/65.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_text_select_handle_middle_mtrl.png
+res/6E.png -> [res/6E.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_horizontal.xml
+res/6J.xml -> [res/6J.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_tooltip_enter.xml
+res/6e.xml -> [res/6e.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png
+res/6w.9.png -> [res/6w.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png
+res/72.9.png -> [res/72.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_cascading_menu_item_layout.xml
+res/75.xml -> [res/75.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-xxhdpi/ic_launcher_round.webp
+res/7E.webp -> [res/7E.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png
+res/7F.9.png -> [res/7F.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png
+res/7P.9.png -> [res/7P.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png
+res/7T.9.png -> [res/7T.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml
+res/7u.xml -> [res/7u.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml
+res/83.xml -> [res/83.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml
+res/8E.xml -> [res/8E.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+res/8T.png -> [res/8T.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/notification_bg_normal.9.png
+res/8V.9.png -> [res/8V.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_time_input.xml
+res/8_.xml -> [res/8_.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_screen_content_include.xml
+res/8s.xml -> [res/8s.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png
+res/8w.9.png -> [res/8w.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/notification_bg_normal_pressed.9.png
+res/93.9.png -> [res/93.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_clock_display_divider.xml
+res/99.xml -> [res/99.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_navigation_item_header.xml
+res/9A.xml -> [res/9A.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_extended_fab_change_size_collapse_motion_spec.xml
+res/9O.xml -> [res/9O.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png
+res/9V.png -> [res/9V.png]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/nav_default_enter_anim.xml
+res/9V.xml -> [res/9V.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png
+res/9X.9.png -> [res/9X.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl.png
+res/9Z.png -> [res/9Z.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-v23/m3_tabs_background.xml
+res/9e.xml -> [res/9e.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png
+res/9t.png -> [res/9t.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_indeterminate_unchecked__2.xml
+res/A6.xml -> [res/A6.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+res/AA.xml -> [res/AA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png
+res/AB.9.png -> [res/AB.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_alert_dialog.xml
+res/AK.xml -> [res/AK.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/mtrl_linear_out_slow_in.xml
+res/AZ.xml -> [res/AZ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png
+res/Ac.9.png -> [res/Ac.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml
+res/Ah.xml -> [res/Ah.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+res/Al.xml -> [res/Al.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_clock_period_toggle.xml
+res/Am.xml -> [res/Am.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_action_menu_item_layout.xml
+res/B8.xml -> [res/B8.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_layout_snackbar_include.xml
+res/BA.xml -> [res/BA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png
+res/BG.png -> [res/BG.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png
+res/BO.png -> [res/BO.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_switch_thumb_pressed_unchecked__0.xml
+res/Bq.xml -> [res/Bq.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+res/Bx.xml -> [res/Bx.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_checked_pressed.xml
+res/C5.xml -> [res/C5.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/notification_template_custom_big.xml
+res/C7.xml -> [res/C7.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png
+res/CA.9.png -> [res/CA.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_ic_checkbox_unchecked.xml
+res/CG.xml -> [res/CG.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/linear_indeterminate_line1_head_interpolator.xml
+res/CZ.xml -> [res/CZ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/btn_radio_off_mtrl.xml
+res/Cb.xml -> [res/Cb.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png
+res/Cg.9.png -> [res/Cg.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_unchecked_indeterminate__0.xml
+res/Cg.xml -> [res/Cg.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-v22/material_timepicker_dialog.xml
+res/Cm.xml -> [res/Cm.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/m3_sys_motion_easing_standard_decelerate.xml
+res/Cu.xml -> [res/Cu.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/notification_tile_bg.xml
+res/Cv.xml -> [res/Cv.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_alert_select_dialog_item.xml
+res/DF.xml -> [res/DF.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_card_state_list_anim.xml
+res/DG.xml -> [res/DG.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_spinner_textfield_background_material.xml
+res/DP.xml -> [res/DP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/notification_action.xml
+res/DS.xml -> [res/DS.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-v23/m3_appbar_background.xml
+res/DU.xml -> [res/DU.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_icon.xml
+res/DV.xml -> [res/DV.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/nav_default_exit_anim.xml
+res/Df.xml -> [res/Df.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+res/Df1.xml -> [res/Df1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_radial_view_group.xml
+res/Di.xml -> [res/Di.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_list_focused_holo.9.png
+res/Dt.9.png -> [res/Dt.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_list_focused_holo.9.png
+res/E2.9.png -> [res/E2.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_list_selector_holo_dark.xml
+res/E7.xml -> [res/E7.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png
+res/ER.9.png -> [res/ER.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png
+res/Eb.9.png -> [res/Eb.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_text_input_start_icon.xml
+res/Ej.xml -> [res/Ej.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_text_select_handle_right_mtrl.png
+res/Er.png -> [res/Er.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_days_of_week.xml
+res/Ex.xml -> [res/Ex.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_screen_toolbar.xml
+res/Ey.xml -> [res/Ey.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+res/F8.9.png -> [res/F8.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png
+res/FG.png -> [res/FG.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+res/FM.9.png -> [res/FM.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_timepicker_dialog.xml
+res/FR.xml -> [res/FR.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png
+res/FY.png -> [res/FY.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/notification_bg.xml
+res/FZ.xml -> [res/FZ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_m3_chip_close.xml
+res/Fe.xml -> [res/Fe.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_star_black_48dp.xml
+res/Fg.xml -> [res/Fg.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_keyboard_black_24dp.xml
+res/Fl.xml -> [res/Fl.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png
+res/Fx.9.png -> [res/Fx.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png
+res/Fx1.9.png -> [res/Fx1.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/m3_sys_motion_easing_emphasized_decelerate.xml
+res/G3.xml -> [res/G3.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_text_select_handle_left_mtrl.png
+res/G7.png -> [res/G7.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_popupmenu_background_overlay.xml
+res/GT.xml -> [res/GT.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml
+res/Gb.xml -> [res/Gb.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_menu_share_mtrl_alpha.xml
+res/Ge.xml -> [res/Ge.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_tooltip_exit.xml
+res/Gn.xml -> [res/Gn.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/design_appbar_state_list_animator.xml
+res/Gz.xml -> [res/Gz.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/fragment_category.xml
+res/H1.xml -> [res/H1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml
+res/H11.xml -> [res/H11.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_grow_fade_in_from_bottom.xml
+res/HA.xml -> [res/HA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_extended_fab_state_list_animator.xml
+res/HE.xml -> [res/HE.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_year.xml
+res/HQ.xml -> [res/HQ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+res/HS.9.png -> [res/HS.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_bottom_navigation_item.xml
+res/Hy.xml -> [res/Hy.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_timepicker.xml
+res/I-.xml -> [res/I-.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png
+res/I3.png -> [res/I3.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/btn_radio_on_mtrl.xml
+res/I7.xml -> [res/I7.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png
+res/IC.png -> [res/IC.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_mtrl_chip_checked_black.xml
+res/ID.xml -> [res/ID.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_alert_dialog_title_material.xml
+res/Ig.xml -> [res/Ig.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_scrubber_primary_mtrl_alpha.9.png
+res/In.9.png -> [res/In.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+res/J6.9.png -> [res/J6.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_dropdown_arrow.xml
+res/J7.xml -> [res/J7.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_seekbar_track_material.xml
+res/J71.xml -> [res/J71.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.9.png
+res/J8.9.png -> [res/J8.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_text_select_handle_left_mtrl.png
+res/JV.png -> [res/JV.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/fragment_detail_article.xml
+res/JW.xml -> [res/JW.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_unchecked_checked.xml
+res/Jk.xml -> [res/Jk.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/design_password_eye.xml
+res/Jn.xml -> [res/Jn.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml
+res/Jo.xml -> [res/Jo.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/m3_tabs_line_indicator.xml
+res/K0.xml -> [res/K0.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_vector_test.xml
+res/K3.xml -> [res/K3.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_checked_unchecked__2.xml
+res/KA.xml -> [res/KA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png
+res/Kp.9.png -> [res/Kp.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+res/Ks.xml -> [res/Ks.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+res/Kv.xml -> [res/Kv.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_switch_thumb_unchecked_pressed__0.xml
+res/LA.xml -> [res/LA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/notify_panel_notification_icon_bg.png
+res/LD.png -> [res/LD.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_time_chip.xml
+res/LH.xml -> [res/LH.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-watch/abc_alert_dialog_button_bar_material.xml
+res/LN.xml -> [res/LN.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-watch/abc_dialog_material_background.xml
+res/LT.xml -> [res/LT.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/m3_popupmenu_background_overlay.xml
+res/LV.xml -> [res/LV.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png
+res/L_.png -> [res/L_.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_navigation_rail_item.xml
+res/Ld.xml -> [res/Ld.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_btn_state_list_anim.xml
+res/Lm.xml -> [res/Lm.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png
+res/Lq.9.png -> [res/Lq.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_timepicker_textinput_display.xml
+res/Ly.xml -> [res/Ly.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_unchecked_checked__2.xml
+res/M1.xml -> [res/M1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_unchecked_checked__1.xml
+res/M11.xml -> [res/M11.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_unchecked_checked__0.xml
+res/M12.xml -> [res/M12.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/material_ic_menu_arrow_up_black_24dp.xml
+res/M3.xml -> [res/M3.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_ic_arrow_drop_up.xml
+res/M4.xml -> [res/M4.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ratingbar_small_material.xml
+res/M6.xml -> [res/M6.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/design_snackbar_out.xml
+res/MC.xml -> [res/MC.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/m3_sys_motion_easing_emphasized_accelerate.xml
+res/ME.xml -> [res/ME.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$avd_show_password__2.xml
+res/MH.xml -> [res/MH.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_search_api_material.xml
+res/MN.xml -> [res/MN.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/select_dialog_singlechoice_material.xml
+res/MP.xml -> [res/MP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$avd_show_password__0.xml
+res/MP1.xml -> [res/MP1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png
+res/Ml.9.png -> [res/Ml.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+res/Mr.9.png -> [res/Mr.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_list_pressed_holo_light.9.png
+res/Mz.9.png -> [res/Mz.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/navigation/navigation.xml
+res/N-.xml -> [res/N-.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_popup_enter.xml
+res/N9.xml -> [res/N9.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-land/mtrl_picker_header_dialog.xml
+res/NA.xml -> [res/NA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_btn_radio_material.xml
+res/NI.xml -> [res/NI.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png
+res/NM.9.png -> [res/NM.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png
+res/NP.9.png -> [res/NP.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/notification_icon_background.xml
+res/NR.xml -> [res/NR.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_screen_simple_overlay_action_mode.xml
+res/NU.xml -> [res/NU.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/notification_bg_normal_pressed.9.png
+res/O3.9.png -> [res/O3.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_unchecked_checked__2.xml
+res/O5.xml -> [res/O5.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_navigation_item_subheader.xml
+res/O8.xml -> [res/O8.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_extended_fab_show_motion_spec.xml
+res/OH.xml -> [res/OH.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_cab_background_internal_bg.xml
+res/OK.xml -> [res/OK.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/item_category.xml
+res/OR.xml -> [res/OR.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_pressed_checked.xml
+res/OR1.xml -> [res/OR1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_card_elevated_state_list_anim.xml
+res/Od.xml -> [res/Od.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png
+res/Of.9.png -> [res/Of.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ratingbar_material.xml
+res/Of.xml -> [res/Of.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png
+res/Of1.9.png -> [res/Of1.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-v22/mtrl_alert_dialog_actions.xml
+res/Os.xml -> [res/Os.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/notify_panel_notification_icon_bg.png
+res/Ot.png -> [res/Ot.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_text_select_handle_right_mtrl.png
+res/Ou.png -> [res/Ou.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_voice_search_api_material.xml
+res/Ov.xml -> [res/Ov.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+res/Ow.xml -> [res/Ow.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/m3_sys_motion_easing_standard_accelerate.xml
+res/P1.xml -> [res/P1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/tooltip_frame_light.xml
+res/PA.xml -> [res/PA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/material_ic_menu_arrow_down_black_24dp.xml
+res/PF.xml -> [res/PF.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/fragment_open_exit.xml
+res/PF1.xml -> [res/PF1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+res/Pi.9.png -> [res/Pi.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/science.png
+res/Pi.png -> [res/Pi.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/notification_bg_low_normal.9.png
+res/Pq.9.png -> [res/Pq.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/select_dialog_multichoice_material.xml
+res/Px.xml -> [res/Px.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_list_longpressed_holo.9.png
+res/Q1.9.png -> [res/Q1.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+res/Q11.9.png -> [res/Q11.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png
+res/QD.9.png -> [res/QD.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_extended_fab_state_list_animator.xml
+res/QV.xml -> [res/QV.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-land/material_timepicker.xml
+res/Qc.xml -> [res/Qc.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/avd_show_password.xml
+res/Qk.xml -> [res/Qk.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/m3_sys_motion_easing_emphasized.xml
+res/Qq.xml -> [res/Qq.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/notify_panel_notification_icon_bg.png
+res/Qv.png -> [res/Qv.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_textfield_search_material.xml
+res/Qw.xml -> [res/Qw.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/design_snackbar_in.xml
+res/R2.xml -> [res/R2.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/activity_main.xml
+res/R5.xml -> [res/R5.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_list_menu_item_icon.xml
+res/R6.xml -> [res/R6.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_mtrl_checked_circle.xml
+res/RT.xml -> [res/RT.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-v22/m3_alert_dialog_actions.xml
+res/Re.xml -> [res/Re.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_action_menu_layout.xml
+res/Rq.xml -> [res/Rq.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_alert_select_dialog_singlechoice.xml
+res/Ru.xml -> [res/Ru.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+res/Rx.xml -> [res/Rx.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/notification_template_part_time.xml
+res/SH.xml -> [res/SH.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/design_fab_hide_motion_spec.xml
+res/SQ.xml -> [res/SQ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/notification_template_icon_group.xml
+res/SS.xml -> [res/SS.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/select_dialog_item_material.xml
+res/SU.xml -> [res/SU.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/nav_default_exit_anim.xml
+res/Sc.xml -> [res/Sc.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_extended_fab_show_motion_spec.xml
+res/Sf.xml -> [res/Sf.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png
+res/Sr.png -> [res/Sr.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/support_simple_spinner_dropdown_item.xml
+res/St.xml -> [res/St.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/notification_bg_low_pressed.9.png
+res/T2.9.png -> [res/T2.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_clock_black_24dp.xml
+res/T2.xml -> [res/T2.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png
+res/TF.9.png -> [res/TF.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_activity_chooser_view_list_item.xml
+res/TK.xml -> [res/TK.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_textinput_timepicker.xml
+res/TP.xml -> [res/TP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png
+res/TQ.png -> [res/TQ.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_indeterminate_unchecked__0.xml
+res/TV.xml -> [res/TV.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png
+res/Tl.9.png -> [res/Tl.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/no_internet.xml
+res/Tn.xml -> [res/Tn.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_clear_material.xml
+res/Ts.xml -> [res/Ts.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_tooltip.xml
+res/UO.xml -> [res/UO.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/design_fab_background.xml
+res/UQ.xml -> [res/UQ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_day_of_week.xml
+res/UU.xml -> [res/UU.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+res/U_.png -> [res/U_.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/fragment_source_news.xml
+res/Ub.xml -> [res/Ub.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/test_level_drawable.xml
+res/Ug.xml -> [res/Ug.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_list_pressed_holo_light.9.png
+res/Us.9.png -> [res/Us.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_navigation_menu.xml
+res/Uz.xml -> [res/Uz.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png
+res/V-.9.png -> [res/V-.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png
+res/V-1.9.png -> [res/V-1.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+res/V1.xml -> [res/V1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png
+res/V4.png -> [res/V4.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png
+res/V9.png -> [res/V9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_header_selection_text.xml
+res/V9.xml -> [res/V9.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png
+res/VK.9.png -> [res/VK.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+res/VW.png -> [res/VW.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+res/VW1.png -> [res/VW1.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-v23/m3_radiobutton_ripple.xml
+res/Vc.xml -> [res/Vc.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-xxhdpi/ic_launcher.webp
+res/Vd.webp -> [res/Vd.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml
+res/Ve.xml -> [res/Ve.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-v23/abc_control_background_material.xml
+res/Vl.xml -> [res/Vl.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png
+res/Vq.png -> [res/Vq.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_pressed_unchecked.xml
+res/WF.xml -> [res/WF.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_ic_cancel.xml
+res/WG.xml -> [res/WG.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+res/WO.xml -> [res/WO.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_ic_arrow_drop_down.xml
+res/WP.xml -> [res/WP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_actions.xml
+res/WT.xml -> [res/WT.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_btn_default_mtrl_shape.xml
+res/WT1.xml -> [res/WT1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_clockface_view.xml
+res/Wl.xml -> [res/Wl.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_month.xml
+res/Wn.xml -> [res/Wn.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_btn_elevated_btn_state_list_anim.xml
+res/Wo.xml -> [res/Wo.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png
+res/X3.9.png -> [res/X3.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_text_select_handle_left_mtrl.png
+res/X5.png -> [res/X5.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_extended_fab_hide_motion_spec.xml
+res/X8.xml -> [res/X8.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_clockface_textview.xml
+res/X9.xml -> [res/X9.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ratingbar_indicator_material.xml
+res/XM.xml -> [res/XM.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_popup_menu_item_layout.xml
+res/XS.xml -> [res/XS.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_switch_thumb_unchecked_checked__1.xml
+res/XT.xml -> [res/XT.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_switch_thumb_unchecked_checked__0.xml
+res/XT1.xml -> [res/XT1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png
+res/Xp.9.png -> [res/Xp.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/notification_bg_normal_pressed.9.png
+res/Xs.9.png -> [res/Xs.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png
+res/Xs1.9.png -> [res/Xs1.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-v22/abc_alert_dialog_button_bar_material.xml
+res/Y-.xml -> [res/Y-.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_day.xml
+res/YA.xml -> [res/YA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-mdpi/ic_launcher.webp
+res/YB.webp -> [res/YB.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml
+res/YF.xml -> [res/YF.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png
+res/YH.9.png -> [res/YH.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/fragment_fade_enter.xml
+res/YQ.xml -> [res/YQ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png
+res/YW.png -> [res/YW.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png
+res/Yh.png -> [res/Yh.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+res/Yt.9.png -> [res/Yt.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/m3_tabs_rounded_line_indicator.xml
+res/Yw.xml -> [res/Yw.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_list_selector_background_transition_holo_light.xml
+res/Z4.xml -> [res/Z4.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/m3_alert_dialog.xml
+res/ZD.xml -> [res/ZD.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-sw600dp/design_layout_snackbar.xml
+res/ZF.xml -> [res/ZF.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-v26/mtrl_calendar_month.xml
+res/ZW.xml -> [res/ZW.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_menu_item_action_area.xml
+res/Za.xml -> [res/Za.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-anydpi-v24/$ic_launcher_foreground__0.xml
+res/Za1.xml -> [res/Za1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_list_focused_holo.9.png
+res/_6.9.png -> [res/_6.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png
+res/_7.png -> [res/_7.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_checked.xml
+res/_R.xml -> [res/_R.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_months.xml
+res/_d.xml -> [res/_d.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+res/_l.xml -> [res/_l.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_layout_snackbar_include.xml
+res/a2.xml -> [res/a2.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl.png
+res/a6.png -> [res/a6.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/custom_dialog.xml
+res/aA.xml -> [res/aA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_dialog_material_background.xml
+res/aD.xml -> [res/aD.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/material_chip_input_combo.xml
+res/aO.xml -> [res/aO.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_text_input_date.xml
+res/aR.xml -> [res/aR.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_checked_unchecked__1.xml
+res/ag.xml -> [res/ag.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-v22/design_navigation_item.xml
+res/ai.xml -> [res/ai.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_extended_fab_change_size_expand_motion_spec.xml
+res/ai1.xml -> [res/ai1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png
+res/au.9.png -> [res/au.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_layout_snackbar.xml
+res/b9.xml -> [res/b9.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_select_dialog_material.xml
+res/b91.xml -> [res/b91.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/mtrl_linear.xml
+res/bC.xml -> [res/bC.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png
+res/bK.9.png -> [res/bK.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_indeterminate_unchecked__1.xml
+res/bP.xml -> [res/bP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/business.png
+res/bT.png -> [res/bT.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+res/bT.xml -> [res/bT.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png
+res/bW.png -> [res/bW.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_pressed.xml
+res/bX.xml -> [res/bX.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_edit_text_material.xml
+res/bb.xml -> [res/bb.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_vertical.xml
+res/bl.xml -> [res/bl.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/mtrl_card_lowers_interpolator.xml
+res/bn.xml -> [res/bn.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png
+res/bu.9.png -> [res/bu.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_elevated_chip_state_list_anim.xml
+res/bu.xml -> [res/bu.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_navigation_bar_item_background.xml
+res/c1.xml -> [res/c1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/mtrl_bottom_sheet_slide_in.xml
+res/c4.xml -> [res/c4.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png
+res/cM.9.png -> [res/cM.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_checked_unchecked.xml
+res/cR.xml -> [res/cR.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/nav_default_pop_enter_anim.xml
+res/cW.xml -> [res/cW.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png
+res/ca.9.png -> [res/ca.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_action_bar_title_item.xml
+res/cf.xml -> [res/cf.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/linear_indeterminate_line2_head_interpolator.xml
+res/ch.xml -> [res/ch.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/fragment_splash_screen.xml
+res/ci.xml -> [res/ci.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-mdpi/ic_launcher_round.webp
+res/co.webp -> [res/co.webp]
+res/color-night-v8/material_timepicker_button_stroke.xml -> [res/color-night-v8/material_timepicker_button_stroke.xml]
+res/color-night-v8/material_timepicker_clockface.xml -> [res/color-night-v8/material_timepicker_clockface.xml]
+res/color-night-v8/material_timepicker_modebutton_tint.xml -> [res/color-night-v8/material_timepicker_modebutton_tint.xml]
+res/color-v21/abc_btn_colored_borderless_text_material.xml -> [res/color-v21/abc_btn_colored_borderless_text_material.xml]
+res/color-v23/abc_btn_colored_borderless_text_material.xml -> [res/color-v23/abc_btn_colored_borderless_text_material.xml]
+res/color-v23/abc_btn_colored_text_material.xml -> [res/color-v23/abc_btn_colored_text_material.xml]
+res/color-v23/abc_color_highlight_material.xml -> [res/color-v23/abc_color_highlight_material.xml]
+res/color-v23/abc_tint_btn_checkable.xml -> [res/color-v23/abc_tint_btn_checkable.xml]
+res/color-v23/abc_tint_default.xml -> [res/color-v23/abc_tint_default.xml]
+res/color-v23/abc_tint_edittext.xml -> [res/color-v23/abc_tint_edittext.xml]
+res/color-v23/abc_tint_seek_thumb.xml -> [res/color-v23/abc_tint_seek_thumb.xml]
+res/color-v23/abc_tint_spinner.xml -> [res/color-v23/abc_tint_spinner.xml]
+res/color-v23/abc_tint_switch_track.xml -> [res/color-v23/abc_tint_switch_track.xml]
+res/color-v31/m3_dynamic_dark_default_color_primary_text.xml -> [res/color-v31/m3_dynamic_dark_default_color_primary_text.xml]
+res/color-v31/m3_dynamic_dark_default_color_secondary_text.xml -> [res/color-v31/m3_dynamic_dark_default_color_secondary_text.xml]
+res/color-v31/m3_dynamic_dark_highlighted_text.xml -> [res/color-v31/m3_dynamic_dark_highlighted_text.xml]
+res/color-v31/m3_dynamic_dark_hint_foreground.xml -> [res/color-v31/m3_dynamic_dark_hint_foreground.xml]
+res/color-v31/m3_dynamic_dark_primary_text_disable_only.xml -> [res/color-v31/m3_dynamic_dark_primary_text_disable_only.xml]
+res/color-v31/m3_dynamic_default_color_primary_text.xml -> [res/color-v31/m3_dynamic_default_color_primary_text.xml]
+res/color-v31/m3_dynamic_default_color_secondary_text.xml -> [res/color-v31/m3_dynamic_default_color_secondary_text.xml]
+res/color-v31/m3_dynamic_highlighted_text.xml -> [res/color-v31/m3_dynamic_highlighted_text.xml]
+res/color-v31/m3_dynamic_hint_foreground.xml -> [res/color-v31/m3_dynamic_hint_foreground.xml]
+res/color-v31/m3_dynamic_primary_text_disable_only.xml -> [res/color-v31/m3_dynamic_primary_text_disable_only.xml]
+res/color/abc_background_cache_hint_selector_material_dark.xml -> [res/color/abc_background_cache_hint_selector_material_dark.xml]
+res/color/abc_background_cache_hint_selector_material_light.xml -> [res/color/abc_background_cache_hint_selector_material_light.xml]
+res/color/abc_btn_colored_text_material.xml -> [res/color/abc_btn_colored_text_material.xml]
+res/color/abc_hint_foreground_material_dark.xml -> [res/color/abc_hint_foreground_material_dark.xml]
+res/color/abc_hint_foreground_material_light.xml -> [res/color/abc_hint_foreground_material_light.xml]
+res/color/abc_primary_text_disable_only_material_dark.xml -> [res/color/abc_primary_text_disable_only_material_dark.xml]
+res/color/abc_primary_text_disable_only_material_light.xml -> [res/color/abc_primary_text_disable_only_material_light.xml]
+res/color/abc_primary_text_material_dark.xml -> [res/color/abc_primary_text_material_dark.xml]
+res/color/abc_primary_text_material_light.xml -> [res/color/abc_primary_text_material_light.xml]
+res/color/abc_search_url_text.xml -> [res/color/abc_search_url_text.xml]
+res/color/abc_secondary_text_material_dark.xml -> [res/color/abc_secondary_text_material_dark.xml]
+res/color/abc_secondary_text_material_light.xml -> [res/color/abc_secondary_text_material_light.xml]
+res/color/abc_tint_btn_checkable.xml -> [res/color/abc_tint_btn_checkable.xml]
+res/color/abc_tint_default.xml -> [res/color/abc_tint_default.xml]
+res/color/abc_tint_edittext.xml -> [res/color/abc_tint_edittext.xml]
+res/color/abc_tint_seek_thumb.xml -> [res/color/abc_tint_seek_thumb.xml]
+res/color/abc_tint_spinner.xml -> [res/color/abc_tint_spinner.xml]
+res/color/abc_tint_switch_track.xml -> [res/color/abc_tint_switch_track.xml]
+res/color/design_box_stroke_color.xml -> [res/color/design_box_stroke_color.xml]
+res/color/design_error.xml -> [res/color/design_error.xml]
+res/color/design_icon_tint.xml -> [res/color/design_icon_tint.xml]
+res/color/m3_appbar_overlay_color.xml -> [res/color/m3_appbar_overlay_color.xml]
+res/color/m3_assist_chip_icon_tint_color.xml -> [res/color/m3_assist_chip_icon_tint_color.xml]
+res/color/m3_assist_chip_stroke_color.xml -> [res/color/m3_assist_chip_stroke_color.xml]
+res/color/m3_button_background_color_selector.xml -> [res/color/m3_button_background_color_selector.xml]
+res/color/m3_button_foreground_color_selector.xml -> [res/color/m3_button_foreground_color_selector.xml]
+res/color/m3_button_outline_color_selector.xml -> [res/color/m3_button_outline_color_selector.xml]
+res/color/m3_button_ripple_color.xml -> [res/color/m3_button_ripple_color.xml]
+res/color/m3_button_ripple_color_selector.xml -> [res/color/m3_button_ripple_color_selector.xml]
+res/color/m3_calendar_item_disabled_text.xml -> [res/color/m3_calendar_item_disabled_text.xml]
+res/color/m3_calendar_item_stroke_color.xml -> [res/color/m3_calendar_item_stroke_color.xml]
+res/color/m3_card_foreground_color.xml -> [res/color/m3_card_foreground_color.xml]
+res/color/m3_card_ripple_color.xml -> [res/color/m3_card_ripple_color.xml]
+res/color/m3_card_stroke_color.xml -> [res/color/m3_card_stroke_color.xml]
+res/color/m3_checkbox_button_icon_tint.xml -> [res/color/m3_checkbox_button_icon_tint.xml]
+res/color/m3_checkbox_button_tint.xml -> [res/color/m3_checkbox_button_tint.xml]
+res/color/m3_chip_assist_text_color.xml -> [res/color/m3_chip_assist_text_color.xml]
+res/color/m3_chip_background_color.xml -> [res/color/m3_chip_background_color.xml]
+res/color/m3_chip_ripple_color.xml -> [res/color/m3_chip_ripple_color.xml]
+res/color/m3_chip_stroke_color.xml -> [res/color/m3_chip_stroke_color.xml]
+res/color/m3_chip_text_color.xml -> [res/color/m3_chip_text_color.xml]
+res/color/m3_dark_default_color_primary_text.xml -> [res/color/m3_dark_default_color_primary_text.xml]
+res/color/m3_dark_default_color_secondary_text.xml -> [res/color/m3_dark_default_color_secondary_text.xml]
+res/color/m3_dark_highlighted_text.xml -> [res/color/m3_dark_highlighted_text.xml]
+res/color/m3_dark_hint_foreground.xml -> [res/color/m3_dark_hint_foreground.xml]
+res/color/m3_dark_primary_text_disable_only.xml -> [res/color/m3_dark_primary_text_disable_only.xml]
+res/color/m3_default_color_primary_text.xml -> [res/color/m3_default_color_primary_text.xml]
+res/color/m3_default_color_secondary_text.xml -> [res/color/m3_default_color_secondary_text.xml]
+res/color/m3_efab_ripple_color_selector.xml -> [res/color/m3_efab_ripple_color_selector.xml]
+res/color/m3_elevated_chip_background_color.xml -> [res/color/m3_elevated_chip_background_color.xml]
+res/color/m3_fab_efab_background_color_selector.xml -> [res/color/m3_fab_efab_background_color_selector.xml]
+res/color/m3_fab_efab_foreground_color_selector.xml -> [res/color/m3_fab_efab_foreground_color_selector.xml]
+res/color/m3_fab_ripple_color_selector.xml -> [res/color/m3_fab_ripple_color_selector.xml]
+res/color/m3_filled_icon_button_container_color_selector.xml -> [res/color/m3_filled_icon_button_container_color_selector.xml]
+res/color/m3_highlighted_text.xml -> [res/color/m3_highlighted_text.xml]
+res/color/m3_hint_foreground.xml -> [res/color/m3_hint_foreground.xml]
+res/color/m3_icon_button_icon_color_selector.xml -> [res/color/m3_icon_button_icon_color_selector.xml]
+res/color/m3_navigation_bar_item_with_indicator_icon_tint.xml -> [res/color/m3_navigation_bar_item_with_indicator_icon_tint.xml]
+res/color/m3_navigation_bar_item_with_indicator_label_tint.xml -> [res/color/m3_navigation_bar_item_with_indicator_label_tint.xml]
+res/color/m3_navigation_bar_ripple_color_selector.xml -> [res/color/m3_navigation_bar_ripple_color_selector.xml]
+res/color/m3_navigation_item_background_color.xml -> [res/color/m3_navigation_item_background_color.xml]
+res/color/m3_navigation_item_icon_tint.xml -> [res/color/m3_navigation_item_icon_tint.xml]
+res/color/m3_navigation_item_ripple_color.xml -> [res/color/m3_navigation_item_ripple_color.xml]
+res/color/m3_navigation_item_text_color.xml -> [res/color/m3_navigation_item_text_color.xml]
+res/color/m3_popupmenu_overlay_color.xml -> [res/color/m3_popupmenu_overlay_color.xml]
+res/color/m3_primary_text_disable_only.xml -> [res/color/m3_primary_text_disable_only.xml]
+res/color/m3_radiobutton_button_tint.xml -> [res/color/m3_radiobutton_button_tint.xml]
+res/color/m3_radiobutton_ripple_tint.xml -> [res/color/m3_radiobutton_ripple_tint.xml]
+res/color/m3_selection_control_ripple_color_selector.xml -> [res/color/m3_selection_control_ripple_color_selector.xml]
+res/color/m3_simple_item_ripple_color.xml -> [res/color/m3_simple_item_ripple_color.xml]
+res/color/m3_slider_active_track_color.xml -> [res/color/m3_slider_active_track_color.xml]
+res/color/m3_slider_halo_color.xml -> [res/color/m3_slider_halo_color.xml]
+res/color/m3_slider_inactive_track_color.xml -> [res/color/m3_slider_inactive_track_color.xml]
+res/color/m3_slider_thumb_color.xml -> [res/color/m3_slider_thumb_color.xml]
+res/color/m3_switch_thumb_tint.xml -> [res/color/m3_switch_thumb_tint.xml]
+res/color/m3_switch_track_tint.xml -> [res/color/m3_switch_track_tint.xml]
+res/color/m3_tabs_icon_color.xml -> [res/color/m3_tabs_icon_color.xml]
+res/color/m3_tabs_ripple_color.xml -> [res/color/m3_tabs_ripple_color.xml]
+res/color/m3_text_button_background_color_selector.xml -> [res/color/m3_text_button_background_color_selector.xml]
+res/color/m3_text_button_foreground_color_selector.xml -> [res/color/m3_text_button_foreground_color_selector.xml]
+res/color/m3_text_button_ripple_color_selector.xml -> [res/color/m3_text_button_ripple_color_selector.xml]
+res/color/m3_textfield_filled_background_color.xml -> [res/color/m3_textfield_filled_background_color.xml]
+res/color/m3_textfield_indicator_text_color.xml -> [res/color/m3_textfield_indicator_text_color.xml]
+res/color/m3_textfield_input_text_color.xml -> [res/color/m3_textfield_input_text_color.xml]
+res/color/m3_textfield_label_color.xml -> [res/color/m3_textfield_label_color.xml]
+res/color/m3_textfield_stroke_color.xml -> [res/color/m3_textfield_stroke_color.xml]
+res/color/m3_timepicker_button_background_color.xml -> [res/color/m3_timepicker_button_background_color.xml]
+res/color/m3_timepicker_button_ripple_color.xml -> [res/color/m3_timepicker_button_ripple_color.xml]
+res/color/m3_timepicker_button_text_color.xml -> [res/color/m3_timepicker_button_text_color.xml]
+res/color/m3_timepicker_clock_text_color.xml -> [res/color/m3_timepicker_clock_text_color.xml]
+res/color/m3_timepicker_display_background_color.xml -> [res/color/m3_timepicker_display_background_color.xml]
+res/color/m3_timepicker_display_ripple_color.xml -> [res/color/m3_timepicker_display_ripple_color.xml]
+res/color/m3_timepicker_display_stroke_color.xml -> [res/color/m3_timepicker_display_stroke_color.xml]
+res/color/m3_timepicker_display_text_color.xml -> [res/color/m3_timepicker_display_text_color.xml]
+res/color/m3_timepicker_secondary_text_button_ripple_color.xml -> [res/color/m3_timepicker_secondary_text_button_ripple_color.xml]
+res/color/m3_timepicker_secondary_text_button_text_color.xml -> [res/color/m3_timepicker_secondary_text_button_text_color.xml]
+res/color/m3_tonal_button_ripple_color_selector.xml -> [res/color/m3_tonal_button_ripple_color_selector.xml]
+res/color/material_cursor_color.xml -> [res/color/material_cursor_color.xml]
+res/color/material_divider_color.xml -> [res/color/material_divider_color.xml]
+res/color/material_on_background_disabled.xml -> [res/color/material_on_background_disabled.xml]
+res/color/material_on_background_emphasis_high_type.xml -> [res/color/material_on_background_emphasis_high_type.xml]
+res/color/material_on_background_emphasis_medium.xml -> [res/color/material_on_background_emphasis_medium.xml]
+res/color/material_on_primary_disabled.xml -> [res/color/material_on_primary_disabled.xml]
+res/color/material_on_primary_emphasis_high_type.xml -> [res/color/material_on_primary_emphasis_high_type.xml]
+res/color/material_on_primary_emphasis_medium.xml -> [res/color/material_on_primary_emphasis_medium.xml]
+res/color/material_on_surface_disabled.xml -> [res/color/material_on_surface_disabled.xml]
+res/color/material_on_surface_emphasis_high_type.xml -> [res/color/material_on_surface_emphasis_high_type.xml]
+res/color/material_on_surface_emphasis_medium.xml -> [res/color/material_on_surface_emphasis_medium.xml]
+res/color/material_on_surface_stroke.xml -> [res/color/material_on_surface_stroke.xml]
+res/color/material_slider_active_tick_marks_color.xml -> [res/color/material_slider_active_tick_marks_color.xml]
+res/color/material_slider_active_track_color.xml -> [res/color/material_slider_active_track_color.xml]
+res/color/material_slider_halo_color.xml -> [res/color/material_slider_halo_color.xml]
+res/color/material_slider_inactive_tick_marks_color.xml -> [res/color/material_slider_inactive_tick_marks_color.xml]
+res/color/material_slider_inactive_track_color.xml -> [res/color/material_slider_inactive_track_color.xml]
+res/color/material_slider_thumb_color.xml -> [res/color/material_slider_thumb_color.xml]
+res/color/material_timepicker_button_background.xml -> [res/color/material_timepicker_button_background.xml]
+res/color/material_timepicker_button_stroke.xml -> [res/color/material_timepicker_button_stroke.xml]
+res/color/material_timepicker_clock_text_color.xml -> [res/color/material_timepicker_clock_text_color.xml]
+res/color/material_timepicker_clockface.xml -> [res/color/material_timepicker_clockface.xml]
+res/color/material_timepicker_modebutton_tint.xml -> [res/color/material_timepicker_modebutton_tint.xml]
+res/color/mtrl_btn_bg_color_selector.xml -> [res/color/mtrl_btn_bg_color_selector.xml]
+res/color/mtrl_btn_ripple_color.xml -> [res/color/mtrl_btn_ripple_color.xml]
+res/color/mtrl_btn_stroke_color_selector.xml -> [res/color/mtrl_btn_stroke_color_selector.xml]
+res/color/mtrl_btn_text_btn_bg_color_selector.xml -> [res/color/mtrl_btn_text_btn_bg_color_selector.xml]
+res/color/mtrl_btn_text_btn_ripple_color.xml -> [res/color/mtrl_btn_text_btn_ripple_color.xml]
+res/color/mtrl_btn_text_color_selector.xml -> [res/color/mtrl_btn_text_color_selector.xml]
+res/color/mtrl_calendar_item_stroke_color.xml -> [res/color/mtrl_calendar_item_stroke_color.xml]
+res/color/mtrl_calendar_selected_range.xml -> [res/color/mtrl_calendar_selected_range.xml]
+res/color/mtrl_card_view_foreground.xml -> [res/color/mtrl_card_view_foreground.xml]
+res/color/mtrl_card_view_ripple.xml -> [res/color/mtrl_card_view_ripple.xml]
+res/color/mtrl_chip_background_color.xml -> [res/color/mtrl_chip_background_color.xml]
+res/color/mtrl_chip_close_icon_tint.xml -> [res/color/mtrl_chip_close_icon_tint.xml]
+res/color/mtrl_chip_surface_color.xml -> [res/color/mtrl_chip_surface_color.xml]
+res/color/mtrl_chip_text_color.xml -> [res/color/mtrl_chip_text_color.xml]
+res/color/mtrl_choice_chip_background_color.xml -> [res/color/mtrl_choice_chip_background_color.xml]
+res/color/mtrl_choice_chip_ripple_color.xml -> [res/color/mtrl_choice_chip_ripple_color.xml]
+res/color/mtrl_choice_chip_text_color.xml -> [res/color/mtrl_choice_chip_text_color.xml]
+res/color/mtrl_error.xml -> [res/color/mtrl_error.xml]
+res/color/mtrl_fab_bg_color_selector.xml -> [res/color/mtrl_fab_bg_color_selector.xml]
+res/color/mtrl_fab_icon_text_color_selector.xml -> [res/color/mtrl_fab_icon_text_color_selector.xml]
+res/color/mtrl_fab_ripple_color.xml -> [res/color/mtrl_fab_ripple_color.xml]
+res/color/mtrl_filled_background_color.xml -> [res/color/mtrl_filled_background_color.xml]
+res/color/mtrl_filled_icon_tint.xml -> [res/color/mtrl_filled_icon_tint.xml]
+res/color/mtrl_filled_stroke_color.xml -> [res/color/mtrl_filled_stroke_color.xml]
+res/color/mtrl_indicator_text_color.xml -> [res/color/mtrl_indicator_text_color.xml]
+res/color/mtrl_navigation_bar_colored_item_tint.xml -> [res/color/mtrl_navigation_bar_colored_item_tint.xml]
+res/color/mtrl_navigation_bar_colored_ripple_color.xml -> [res/color/mtrl_navigation_bar_colored_ripple_color.xml]
+res/color/mtrl_navigation_bar_item_tint.xml -> [res/color/mtrl_navigation_bar_item_tint.xml]
+res/color/mtrl_navigation_bar_ripple_color.xml -> [res/color/mtrl_navigation_bar_ripple_color.xml]
+res/color/mtrl_navigation_item_background_color.xml -> [res/color/mtrl_navigation_item_background_color.xml]
+res/color/mtrl_navigation_item_icon_tint.xml -> [res/color/mtrl_navigation_item_icon_tint.xml]
+res/color/mtrl_navigation_item_text_color.xml -> [res/color/mtrl_navigation_item_text_color.xml]
+res/color/mtrl_on_primary_text_btn_text_color_selector.xml -> [res/color/mtrl_on_primary_text_btn_text_color_selector.xml]
+res/color/mtrl_on_surface_ripple_color.xml -> [res/color/mtrl_on_surface_ripple_color.xml]
+res/color/mtrl_outlined_icon_tint.xml -> [res/color/mtrl_outlined_icon_tint.xml]
+res/color/mtrl_outlined_stroke_color.xml -> [res/color/mtrl_outlined_stroke_color.xml]
+res/color/mtrl_popupmenu_overlay_color.xml -> [res/color/mtrl_popupmenu_overlay_color.xml]
+res/color/mtrl_switch_thumb_icon_tint.xml -> [res/color/mtrl_switch_thumb_icon_tint.xml]
+res/color/mtrl_switch_thumb_tint.xml -> [res/color/mtrl_switch_thumb_tint.xml]
+res/color/mtrl_switch_track_decoration_tint.xml -> [res/color/mtrl_switch_track_decoration_tint.xml]
+res/color/mtrl_switch_track_tint.xml -> [res/color/mtrl_switch_track_tint.xml]
+res/color/mtrl_tabs_colored_ripple_color.xml -> [res/color/mtrl_tabs_colored_ripple_color.xml]
+res/color/mtrl_tabs_icon_color_selector.xml -> [res/color/mtrl_tabs_icon_color_selector.xml]
+res/color/mtrl_tabs_icon_color_selector_colored.xml -> [res/color/mtrl_tabs_icon_color_selector_colored.xml]
+res/color/mtrl_tabs_legacy_text_color_selector.xml -> [res/color/mtrl_tabs_legacy_text_color_selector.xml]
+res/color/mtrl_tabs_ripple_color.xml -> [res/color/mtrl_tabs_ripple_color.xml]
+res/color/mtrl_text_btn_text_color_selector.xml -> [res/color/mtrl_text_btn_text_color_selector.xml]
+res/color/switch_thumb_material_dark.xml -> [res/color/switch_thumb_material_dark.xml]
+res/color/switch_thumb_material_light.xml -> [res/color/switch_thumb_material_light.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-v23/m3_tabs_transparent_background.xml
+res/cp.xml -> [res/cp.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_navigation_item_separator.xml
+res/cs.xml -> [res/cs.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_star_half_black_48dp.xml
+res/cw.xml -> [res/cw.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_list_pressed_holo_dark.9.png
+res/d1.9.png -> [res/d1.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_fullscreen.xml
+res/d2.xml -> [res/d2.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/notification_bg_low_normal.9.png
+res/dH.9.png -> [res/dH.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_btn_radio_material_anim.xml
+res/dV.xml -> [res/dV.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/m3_sys_motion_easing_linear.xml
+res/dj.xml -> [res/dj.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/fragment_close_exit.xml
+res/dp.xml -> [res/dp.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/item_article.xml
+res/dq.xml -> [res/dq.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png
+res/dv.9.png -> [res/dv.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_search_view.xml
+res/e1.xml -> [res/e1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png
+res/e4.9.png -> [res/e4.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_unchecked_checked__1.xml
+res/e5.xml -> [res/e5.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png
+res/eB.9.png -> [res/eB.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/material_ic_clear_black_24dp.xml
+res/eI.xml -> [res/eI.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/notification_bg_low_pressed.9.png
+res/eK.9.png -> [res/eK.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_tabs_default_indicator.xml
+res/eN.xml -> [res/eN.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_switch_thumb_checked_pressed__0.xml
+res/eQ.xml -> [res/eQ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_popup_exit.xml
+res/eU.xml -> [res/eU.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png
+res/ee.png -> [res/ee.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png
+res/ei.9.png -> [res/ei.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml
+res/ej.xml -> [res/ej.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_text_input_date_range.xml
+res/em.xml -> [res/em.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_switch_thumb_pressed_checked__0.xml
+res/et.xml -> [res/et.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_month_navigation.xml
+res/ew.xml -> [res/ew.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/tooltip_frame_dark.xml
+res/f1.xml -> [res/f1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png
+res/f9.png -> [res/f9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png
+res/fD.9.png -> [res/fD.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-watch/abc_alert_dialog_title_material.xml
+res/fL.xml -> [res/fL.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/xml/data_extraction_rules.xml
+res/fW.xml -> [res/fW.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png
+res/fZ.9.png -> [res/fZ.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png
+res/fr.9.png -> [res/fr.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png
+res/fv.9.png -> [res/fv.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/design_snackbar_background.xml
+res/fv.xml -> [res/fv.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_text_select_handle_left_mtrl.png
+res/fx.png -> [res/fx.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_btn_check_material_anim.xml
+res/gA.xml -> [res/gA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_list_longpressed_holo.9.png
+res/gG.9.png -> [res/gG.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/nav_default_pop_exit_anim.xml
+res/gJ.xml -> [res/gJ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png
+res/gL.9.png -> [res/gL.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_m3_chip_check.xml
+res/gP.xml -> [res/gP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_fade_out.xml
+res/gT.xml -> [res/gT.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png
+res/gV.9.png -> [res/gV.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+res/gZ.xml -> [res/gZ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+res/gl.xml -> [res/gl.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png
+res/h0.9.png -> [res/h0.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button.xml
+res/hE.xml -> [res/hE.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/notification_bg_normal.9.png
+res/hj.9.png -> [res/hj.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_ab_back_material.xml
+res/hu.xml -> [res/hu.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/material_ic_calendar_black_24dp.xml
+res/hv.xml -> [res/hv.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/notification_template_part_chronometer.xml
+res/iL.xml -> [res/iL.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-xxxhdpi/ic_launcher_round.webp
+res/iN.webp -> [res/iN.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-xhdpi/ic_launcher_round.webp
+res/iP.webp -> [res/iP.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$avd_hide_password__1.xml
+res/iV.xml -> [res/iV.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$avd_hide_password__0.xml
+res/ib.xml -> [res/ib.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_item_background_holo_dark.xml
+res/ih.xml -> [res/ih.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png
+res/ii.9.png -> [res/ii.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_header_title_text.xml
+res/iw.xml -> [res/iw.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml
+res/iw1.xml -> [res/iw1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png
+res/j-.9.png -> [res/j-.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/nav_default_pop_enter_anim.xml
+res/j-.xml -> [res/j-.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/general.png
+res/j5.png -> [res/j5.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_scrubber_track_mtrl_alpha.9.png
+res/j9.9.png -> [res/j9.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_header_fullscreen.xml
+res/j9.xml -> [res/j9.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-land/material_clock_period_toggle_land.xml
+res/jH.xml -> [res/jH.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_action_mode_bar.xml
+res/jI.xml -> [res/jI.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/notification_bg_normal.9.png
+res/jK.9.png -> [res/jK.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_slide_out_top.xml
+res/jR.xml -> [res/jR.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png
+res/jh.9.png -> [res/jh.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_screen_simple.xml
+res/jw.xml -> [res/jw.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-v26/abc_screen_toolbar.xml
+res/kB.xml -> [res/kB.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png
+res/kK.9.png -> [res/kK.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+res/k_.png -> [res/k_.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_action_bar_item_background_material.xml
+res/l2.xml -> [res/l2.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_checked_unchecked.xml
+res/lA.xml -> [res/lA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/xml/backup_rules.xml
+res/lN.xml -> [res/lN.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/navigation_empty_icon.xml
+res/lR.xml -> [res/lR.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_cab_background_top_material.xml
+res/lW.xml -> [res/lW.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png
+res/ld.9.png -> [res/ld.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/design_bottom_sheet_slide_out.xml
+res/lf.xml -> [res/lf.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout-ldrtl/material_textinput_timepicker.xml
+res/li.xml -> [res/li.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_list_selector_holo_light.xml
+res/ll.xml -> [res/ll.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_alert_dialog_material.xml
+res/m6.xml -> [res/m6.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml
+res/m8.xml -> [res/m8.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.9.png
+res/m9.9.png -> [res/m9.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_layout_tab_text.xml
+res/mN.xml -> [res/mN.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+res/mU.png -> [res/mU.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml
+res/mX.xml -> [res/mX.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+res/n0.png -> [res/n0.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_btn_unelevated_state_list_anim.xml
+res/n6.xml -> [res/n6.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png
+res/n9.9.png -> [res/n9.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-v23/mtrl_popupmenu_background_overlay.xml
+res/nD.xml -> [res/nD.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/nav_default_pop_exit_anim.xml
+res/nJ.xml -> [res/nJ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png
+res/n_.png -> [res/n_.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_text_select_handle_middle_mtrl.png
+res/nd.png -> [res/nd.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_seekbar_tick_mark_material.xml
+res/nl.xml -> [res/nl.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_text_select_handle_middle_mtrl.png
+res/ns.png -> [res/ns.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_btn_borderless_material.xml
+res/nz.xml -> [res/nz.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_search_dropdown_item_icons_2line.xml
+res/o-.xml -> [res/o-.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_fab_show_motion_spec.xml
+res/o1.xml -> [res/o1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+res/oR.9.png -> [res/oR.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/m3_alert_dialog_actions.xml
+res/oT.xml -> [res/oT.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+res/on.xml -> [res/on.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-anydpi-v26/ic_launcher_round.xml
+res/oy.xml -> [res/oy.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_btn_check_material.xml
+res/oz.xml -> [res/oz.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_ic_menu_overflow_material.xml
+res/p7.xml -> [res/p7.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/avd_hide_password.xml
+res/p8.xml -> [res/p8.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png
+res/pF.9.png -> [res/pF.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-xhdpi/ic_launcher.webp
+res/pY.webp -> [res/pY.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_chip_state_list_anim.xml
+res/q0.xml -> [res/q0.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+res/q1.xml -> [res/q1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/notification_action_background.xml
+res/q6.xml -> [res/q6.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/btn_checkbox_checked_mtrl.xml
+res/q61.xml -> [res/q61.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_checked_unchecked__0.xml
+res/qA.xml -> [res/qA.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/fragment_fast_out_extra_slow_in.xml
+res/qK.xml -> [res/qK.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/mtrl_bottom_sheet_slide_out.xml
+res/qL.xml -> [res/qL.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_slide_in_top.xml
+res/qQ.xml -> [res/qQ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-anydpi-v24/ic_launcher_foreground.xml
+res/qm.xml -> [res/qm.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png
+res/qr.9.png -> [res/qr.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_action_bar_up_container.xml
+res/r-.xml -> [res/r-.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/fast_out_slow_in.xml
+res/r0.xml -> [res/r0.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_unchecked_indeterminate__1.xml
+res/r7.xml -> [res/r7.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+res/rE.xml -> [res/rE.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_btn_state_list_anim.xml
+res/rJ.xml -> [res/rJ.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_mtrl_chip_close_circle.xml
+res/rM.xml -> [res/rM.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_calendar_month_labeled.xml
+res/rX.xml -> [res/rX.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png
+res/rb.9.png -> [res/rb.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_bottomsheet_drag_handle.xml
+res/rb.xml -> [res/rb.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/technology.png
+res/rn.png -> [res/rn.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+res/rn1.png -> [res/rn1.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/ic_search.xml
+res/rr.xml -> [res/rr.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_navigation_item.xml
+res/rt.xml -> [res/rt.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-v23/m3_selection_control_ripple.xml
+res/rx.xml -> [res/rx.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png
+res/s2.9.png -> [res/s2.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/fragment_close_enter.xml
+res/s6.xml -> [res/s6.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png
+res/sL.9.png -> [res/sL.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png
+res/st.9.png -> [res/st.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_text_input_end_icon.xml
+res/t9.xml -> [res/t9.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_track_decoration.xml
+res/tI.xml -> [res/tI.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_list_longpressed_holo.9.png
+res/tM.9.png -> [res/tM.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/entertainment.png
+res/tS.png -> [res/tS.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/fragment_fade_exit.xml
+res/tb.xml -> [res/tb.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_ic_checkbox_checked.xml
+res/th.xml -> [res/th.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+res/tj.9.png -> [res/tj.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/notification_bg_low_pressed.9.png
+res/tr.9.png -> [res/tr.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml
+res/tv.xml -> [res/tv.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_checked_unchecked__2.xml
+res/u0.xml -> [res/u0.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_checked_unchecked__1.xml
+res/u01.xml -> [res/u01.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_checked_unchecked__0.xml
+res/u02.xml -> [res/u02.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_card_state_list_anim.xml
+res/u3.xml -> [res/u3.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_unchecked_checked__0.xml
+res/u5.xml -> [res/u5.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml
+res/u9.xml -> [res/u9.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+res/uB.9.png -> [res/uB.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-anydpi-v26/ic_launcher.xml
+res/uF.xml -> [res/uF.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/linear_indeterminate_line2_tail_interpolator.xml
+res/uO.xml -> [res/uO.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_dialog_background.xml
+res/uP.xml -> [res/uP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/design_ic_visibility.xml
+res/ue.xml -> [res/ue.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml
+res/ug.xml -> [res/ug.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/nav_default_enter_anim.xml
+res/uk.xml -> [res/uk.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_item_background_holo_light.xml
+res/uo.xml -> [res/uo.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_text_select_handle_right_mtrl.png
+res/uu.png -> [res/uu.png]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_shrink_fade_out_from_bottom.xml
+res/v2.xml -> [res/v2.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_indeterminate_checked__0.xml
+res/v3.xml -> [res/v3.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png
+res/v6.9.png -> [res/v6.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_slide_out_bottom.xml
+res/v8.xml -> [res/v8.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_alert_dialog_button_bar_material.xml
+res/vD.xml -> [res/vD.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_activity_chooser_view.xml
+res/vH.xml -> [res/vH.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_alert_dialog_actions.xml
+res/vM.xml -> [res/vM.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/m3_chip_state_list_anim.xml
+res/vO.xml -> [res/vO.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_alert_select_dialog_multichoice.xml
+res/vP.xml -> [res/vP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png
+res/va.png -> [res/va.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_alert_dialog_title.xml
+res/va.xml -> [res/va.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_popup_menu_header_item_layout.xml
+res/vc.xml -> [res/vc.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+res/vd.png -> [res/vd.png]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_extended_fab_hide_motion_spec.xml
+res/vl.xml -> [res/vl.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_fade_in.xml
+res/vp.xml -> [res/vp.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png
+res/vy.9.png -> [res/vy.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/design_navigation_menu_item.xml
+res/vz.xml -> [res/vz.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml
+res/w2.xml -> [res/w2.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/design_fab_show_motion_spec.xml
+res/wG.xml -> [res/wG.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_list_pressed_holo_light.9.png
+res/wK.9.png -> [res/wK.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png
+res/wL.9.png -> [res/wL.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png
+res/wN.png -> [res/wN.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png
+res/wT.png -> [res/wT.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_popupmenu_background.xml
+res/wY.xml -> [res/wY.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+res/wi.9.png -> [res/wi.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+res/wi1.9.png -> [res/wi1.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/m3_alert_dialog_title.xml
+res/wn.xml -> [res/wn.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_fab_hide_motion_spec.xml
+res/wo.xml -> [res/wo.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/material_ic_edit_black_24dp.xml
+res/wz.xml -> [res/wz.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_text_cursor_material.xml
+res/x1.xml -> [res/x1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png
+res/x5.9.png -> [res/x5.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/fragment_article.xml
+res/x7.xml -> [res/x7.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/mipmap-xxxhdpi/ic_launcher.webp
+res/xC.webp -> [res/xC.webp]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb.xml
+res/xc.xml -> [res/xc.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/mtrl_switch_thumb_unchecked_pressed.xml
+res/xd.xml -> [res/xd.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/fragment_open_enter.xml
+res/xs.xml -> [res/xs.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+res/xy.xml -> [res/xy.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable-xxhdpi/abc_list_longpressed_holo.9.png
+res/yO.9.png -> [res/yO.9.png]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_btn_colored_material.xml
+res/yP.xml -> [res/yP.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$avd_hide_password__2.xml
+res/yf.xml -> [res/yf.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_picker_dialog.xml
+res/yx.xml -> [res/yx.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/abc_list_selector_background_transition_holo_dark.xml
+res/z1.xml -> [res/z1.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_switch_thumb_checked_unchecked__1.xml
+res/z11.xml -> [res/z11.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_switch_thumb_checked_unchecked__0.xml
+res/z12.xml -> [res/z12.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/abc_slide_in_bottom.xml
+res/z3.xml -> [res/z3.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/mtrl_auto_complete_simple_item.xml
+res/zB.xml -> [res/zB.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_dialog_title_material.xml
+res/zH.xml -> [res/zH.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/m3_tabs_background.xml
+res/zL.xml -> [res/zL.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/drawable/$mtrl_checkbox_button_icon_unchecked_indeterminate__2.xml
+res/zN.xml -> [res/zN.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/anim/linear_indeterminate_line1_tail_interpolator.xml
+res/z_.xml -> [res/z_.xml]
+# Reconstruction of original filename (before optimization by AAPT): res/layout/abc_action_mode_close_item_material.xml
+res/zq.xml -> [res/zq.xml]
+resources.arsc -> [resources.arsc]
