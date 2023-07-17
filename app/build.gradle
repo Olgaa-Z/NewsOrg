@@ -1,4 +1,5 @@
 plugins {
+    id "com.guardsquare.appsweep"
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
     id 'kotlin-kapt'
@@ -6,17 +7,20 @@ plugins {
     id 'dexguard'
     id 'com.google.gms.google-services'
     //id 'com.google.firebase.crashlytics'
+   // id "com.guardsquare.appsweep"
+
 }
+
 
 android {
     namespace 'com.sourcey.materiallogindemo'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         //applicationId "com.codingwithze.news"
         applicationId "com.sourcey.materiallogindemo"
         minSdk 21
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
@@ -56,6 +60,14 @@ android {
     buildFeatures{
         viewBinding true
     }
+
+    android.applicationVariants.all { variant ->
+        variant.outputs.all { output ->
+            def versionName = variant.versionName
+            outputFileName = "NewsApp-${versionName}.apk"
+        }
+    }
+
 }
 
 dependencies {
@@ -125,3 +137,8 @@ dexguard {
         }
     }
 }
+
+appsweep {
+    apiKey "gs_appsweep_pjxfWpc_eGccDCGvwdsJKw0ITfM9zBYHL3sTNNib"
+}
+
